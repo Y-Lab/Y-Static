@@ -22,7 +22,6 @@ Y-System Website Static Files
 │   │   ├── icomoon.ttf
 │   │   └── icomoon.woff
 │   └── js\
-│       ├── menu-data.js
 │       └── wangEditor.min.js
 ├── fa\
 │   ├── css\
