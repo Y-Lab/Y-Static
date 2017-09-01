@@ -49,6 +49,7 @@ Y-System Website Static Files
     ├── calendar.min.js
     ├── semantic.min.css
     ├── semantic.min.js
+    ├── tablesort.js
     └── themes\
         └── default\
             └── assets\
@@ -93,3 +94,4 @@ Y-System Website Static Files
     - `calendar.min.css`: [https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)
     - `calendar.min.js`: [https://unpkg.com/semantic-ui-calendar/dist/calendar.min.js](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.js)
     - `*semantic-ui`: [https://unpkg.com/semantic-ui/dist/](https://unpkg.com/semantic-ui/dist/)
+    - `tablesort.js`: [https://semantic-ui.com/javascript/library/tablesort.js](https://semantic-ui.com/javascript/library/tablesort.js)
