@@ -4,7 +4,7 @@ Y-System Website Static Files
 ## Version
 
 |Category|File|Version|
-|:--|:--|:--|:--|
+|:--|:--|:--|
 |Basic|`jquery.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.2.1-blue.svg)](https://unpkg.com/jquery/dist/jquery.min.js)|
 |Echarts|`echarts.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.7.1-blue.svg)](https://unpkg.com/echarts/dist/echarts.min.js)|
 ||`macarons.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.7.1-blue.svg)](https://unpkg.com/echarts/theme/macarons.js)|
