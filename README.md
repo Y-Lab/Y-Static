@@ -6,9 +6,9 @@ Y-System Website Static Files
 |Category|File|Version|
 |:--|:--|:--|
 |Basic|`jquery.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.2.1-blue.svg)](https://unpkg.com/jquery/dist/jquery.min.js)|
-|Echarts|`echarts.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.7.1-blue.svg)](https://unpkg.com/echarts/dist/echarts.min.js)|
-||`macarons.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.7.1-blue.svg)](https://unpkg.com/echarts/theme/macarons.js)|
-||`world.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.7.1-blue.svg)](https://unpkg.com/echarts/map/js/world.js)|
+|Echarts|`echarts.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.7.2-blue.svg)](https://unpkg.com/echarts/dist/echarts.min.js)|
+||`macarons.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.7.2-blue.svg)](https://unpkg.com/echarts/theme/macarons.js)|
+||`world.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.7.2-blue.svg)](https://unpkg.com/echarts/map/js/world.js)|
 |Count Up/Down|`countUp.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.8.2-blue.svg)](https://unpkg.com/countup/dist/countUp.min.js)|
 ||`jquery.countdown.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.2.0-blue.svg)](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|
 |Rich Text Editor|`*dist`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.1.23-orange.svg)](https://unpkg.com/wangeditor@2.1.23/dist/)|
