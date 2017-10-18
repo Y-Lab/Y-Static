@@ -15,7 +15,7 @@ Y-System Website Static Files
 |Font Awesome|`*dist`|[![UNPKG](https://img.shields.io/badge/unpkg-v4.7.0-blue.svg)](https://unpkg.com/font-awesome/)|
 |ID Validator|`IDValidator.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||`GB2260.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
-|Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.18.1-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
+|Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.19.1-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
 ||`moment-timezone-with-data.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.5.13-blue.svg)](https://unpkg.com/moment-timezone/builds/moment-timezone-with-data.min.js)|
 ||`moment-range.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.0.3-blue.svg)](https://unpkg.com/moment-range/dist/moment-range.js)|
 |Slider|`nouislider.min.css`|[![UNPKG](https://img.shields.io/badge/unpkg-v10.1.0-blue.svg)](https://unpkg.com/nouislider/distribute/nouislider.min.css)|
