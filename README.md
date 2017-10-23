@@ -17,9 +17,6 @@ Y-System Website Static Files
 ||`GB2260.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
 |Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.19.1-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
 ||`moment-timezone-with-data.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.5.13-blue.svg)](https://unpkg.com/moment-timezone/builds/moment-timezone-with-data.min.js)|
-||`moment-range.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.0.3-blue.svg)](https://unpkg.com/moment-range/dist/moment-range.js)|
-|Slider|`nouislider.min.css`|[![UNPKG](https://img.shields.io/badge/unpkg-v10.1.0-blue.svg)](https://unpkg.com/nouislider/distribute/nouislider.min.css)|
-||`nouislider.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v10.1.0-blue.svg)](https://unpkg.com/nouislider/distribute/nouislider.min.js)|
 |Semantic UI|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.2.13-blue.svg)](https://unpkg.com/semantic-ui/dist/)|
 ||`tablesort.js`|[![Semantic UI JS Library](https://img.shields.io/badge/semantic-v0.0.11-blue.svg)](https://semantic-ui.com/javascript/library/tablesort.js)|
 ||`calendar.min.css`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)|
@@ -57,12 +54,8 @@ Y-System Website Static Files
 │   ├── GB2260.min.js
 │   └── IDValidator.min.js
 ├── moment\
-│   ├── moment-range.js
 │   ├── moment-timezone-with-data.min.js
 │   └── moment-with-locales.min.js
-├── slider\
-│   ├── nouislider.min.css
-│   └── nouislider.min.js
 ├── ui\
 │   ├── themes\
 │   │   └── default\
