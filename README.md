@@ -39,21 +39,10 @@ Y-System Website Static Files
 │   ├── countUp.min.js
 │   └── jquery.countdown.min.js
 ├── editor\
-│   ├── v2\
-│   │   ├── css\
-│   │   │   └── wangEditor.min.css
-│   │   ├── fonts\
-│   │   │   ├── icomoon.eot
-│   │   │   ├── icomoon.svg
-│   │   │   ├── icomoon.ttf
-│   │   │   └── icomoon.woff
-│   │   └── js\
-│   │       └── wangEditor.min.js
-│   └── v3\
-│       ├── fonts\
-│       │   └── w-e-icon.woff
-│       ├── wangEditor.min.css
-│       └── wangEditor.min.js
+│   ├── fonts\
+│   │   └── w-e-icon.woff
+│   ├── wangEditor.min.css
+│   └── wangEditor.min.js
 ├── fa\
 │   ├── css\
 │   │   └── font-awesome.min.css
