@@ -20,6 +20,7 @@ Y-System Website Static Files
 |SVG.js|`svg.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
 |Semantic UI|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.2.13-blue.svg)](https://unpkg.com/semantic-ui/dist/)|
 ||`tablesort.js`|[![Semantic UI JS Library](https://img.shields.io/badge/semantic-v0.0.11-blue.svg)](https://semantic-ui.com/javascript/library/tablesort.js)|
+||`tablesort.min.js`||
 ||`calendar.min.css`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)|
 ||`calendar.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.js)|
 |XSS|`xss.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.3.7-blue.svg)](https://unpkg.com/xss/dist/xss.min.js)|
@@ -76,7 +77,8 @@ Y-System Website Static Files
 │   ├── calendar.min.js
 │   ├── semantic.min.css
 │   ├── semantic.min.js
-│   └── tablesort.js
+│   ├── tablesort.js
+│   └── tablesort.min.js
 └── xss\
     └── xss.min.js
 ```
