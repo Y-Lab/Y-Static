@@ -17,7 +17,6 @@ Y-System Website Static Files
 |ID Validator|`IDValidator.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||`GB2260.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
 |Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.20.1-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
-||`moment-timezone-with-data.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.5.14-blue.svg)](https://unpkg.com/moment-timezone/builds/moment-timezone-with-data.min.js)|
 |SVG.js|`svg.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
 |Semantic UI|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.2.13-blue.svg)](https://unpkg.com/semantic-ui/dist/)|
 ||`tablesort.js`|[![Semantic UI JS Library](https://img.shields.io/badge/semantic-v0.0.11-blue.svg)](https://semantic-ui.com/javascript/library/tablesort.js)|
@@ -58,7 +57,6 @@ Y-System Website Static Files
 │   ├── GB2260.min.js
 │   └── IDValidator.min.js
 ├── moment\
-│   ├── moment-timezone-with-data.min.js
 │   └── moment-with-locales.min.js
 ├── svg\
 │   └── svg.min.js
