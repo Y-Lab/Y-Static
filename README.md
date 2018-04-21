@@ -15,7 +15,7 @@ Y-System Website Static Files
 |Rich Text Editor|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.1.1-blue.svg)](https://unpkg.com/wangeditor/release/)|
 |ID Validator|`IDValidator.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||`GB2260.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
-|Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.22.0-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
+|Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.22.1-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
 |SVG.js|`svg.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
 |Semantic UI|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.3.1-blue.svg)](https://unpkg.com/semantic-ui/dist/)|
 ||`tablesort.js`|[![Semantic UI JS Library](https://img.shields.io/badge/semantic-v0.0.11-blue.svg)](https://semantic-ui.com/javascript/library/tablesort.js)|
