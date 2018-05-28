@@ -22,7 +22,7 @@ Y-System Website Static Files
 ||`tablesort.min.js`||
 ||`calendar.min.css`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)|
 ||`calendar.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.js)|
-|XSS|`xss.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.3.8-blue.svg)](https://unpkg.com/xss/dist/xss.min.js)|
+|XSS|`xss.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.0.3-blue.svg)](https://unpkg.com/xss/dist/xss.min.js)|
 
 ## File Structure
 ```
