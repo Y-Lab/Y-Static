@@ -10,13 +10,14 @@ Y-System Website Static Files
 ||`macarons.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v4.1.0-blue.svg)](https://unpkg.com/echarts/theme/macarons.js)|
 ||`macarons.min.js`||
 ||`world.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v4.1.0-blue.svg)](https://unpkg.com/echarts/map/js/world.js)|
+|Clipboard|`clipboard.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.0.1-blue.svg)](https://unpkg.com/clipboard/dist/clipboard.min.js)|
 |Count Up/Down|`countUp.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.8.2-blue.svg)](https://unpkg.com/countup/dist/countUp.min.js)|
 ||`jquery.countdown.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.2.0-blue.svg)](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|
 |Rich Text Editor|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.1.1-blue.svg)](https://unpkg.com/wangeditor/release/)|
 |ID Validator|`IDValidator.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||`GB2260.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
 |Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.22.2-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
-|SVG.js|`svg.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
+|SVG|`svg.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
 |Semantic UI|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.3.1-blue.svg)](https://unpkg.com/semantic-ui/dist/)|
 ||`tablesort.js`|[![Semantic UI JS Library](https://img.shields.io/badge/semantic-v0.0.11-blue.svg)](https://semantic-ui.com/javascript/library/tablesort.js)|
 ||`tablesort.min.js`||
@@ -34,6 +35,8 @@ Y-System Website Static Files
 │   ├── macarons.js
 │   ├── macarons.min.js
 │   └── world.js
+├── clipboard\
+│   └── clipboard.min.js
 ├── count\
 │   ├── countUp.min.js
 │   └── jquery.countdown.min.js
