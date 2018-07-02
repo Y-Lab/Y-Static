@@ -13,6 +13,7 @@ Y-System Website Static Files
 |Clipboard|`clipboard.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.0.1-blue.svg)](https://unpkg.com/clipboard/dist/clipboard.min.js)|
 |Count Up/Down|`countUp.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.8.2-blue.svg)](https://unpkg.com/countup/dist/countUp.min.js)|
 ||`jquery.countdown.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.2.0-blue.svg)](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|
+|Rich Text Editor|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.11.4-blue.svg)](https://unpkg.com/trix/dist/)|
 |Rich Text Editor|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v3.1.1-blue.svg)](https://unpkg.com/wangeditor/release/)|
 |ID Validator|`IDValidator.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||`GB2260.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
@@ -41,6 +42,8 @@ Y-System Website Static Files
 │   ├── countUp.min.js
 │   └── jquery.countdown.min.js
 ├── editor\
+│   ├── trix.css
+│   ├── trix.js
 │   ├── fonts\
 │   │   └── w-e-icon.woff
 │   ├── wangEditor.min.css
