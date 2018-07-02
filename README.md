@@ -15,6 +15,7 @@ Y-System Website Static Files
 ||`jquery.countdown.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.2.0-blue.svg)](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|
 |Rich Text Editor|`trix.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.11.4-blue.svg)](https://unpkg.com/trix/dist/trix.js)|
 ||`trix.css`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.11.4-blue.svg)](https://unpkg.com/trix/dist/trix.css)|
+||`trix.min.css`||
 |ID Validator|`IDValidator.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||`GB2260.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
 |Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.22.2-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
@@ -43,6 +44,7 @@ Y-System Website Static Files
 │   └── jquery.countdown.min.js
 ├── editor\
 │   ├── trix.css
+│   ├── trix.min.css
 │   └── trix.js
 ├── id\
 │   ├── GB2260.min.js
