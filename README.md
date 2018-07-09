@@ -20,7 +20,7 @@ Y-System Website Static Files
 ||`GB2260.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
 |Moment|`moment-with-locales.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.22.2-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
 |SVG|`svg.min.js`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
-|Fomantic UI|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.4.1-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
+|Fomantic UI|`*dir`|[![UNPKG](https://img.shields.io/badge/unpkg-v2.4.3-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
 ||`tablesort.js`|[![Semantic UI JS Library](https://img.shields.io/badge/fomantic-v0.0.11-blue.svg)](https://fomantic-ui.com/javascript/library/tablesort.js)|
 ||`tablesort.min.js`||
 ||`calendar.min.css`|[![UNPKG](https://img.shields.io/badge/unpkg-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)|
