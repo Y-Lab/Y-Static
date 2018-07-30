@@ -1,7 +1,7 @@
 # Y-System Static Files
 Y-System Website Static Files
 
-## Version
+## Assets
 
 |Category|File|Repository|Version|
 |:--|:--|:--|:--|
