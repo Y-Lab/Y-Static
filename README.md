@@ -21,7 +21,6 @@ Y-System Website Static Files
 ||:page_facing_up: `trix.min.css`|||
 |ID Validator|:page_facing_up: `IDValidator.min.js`|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||:page_facing_up: `GB2260.min.js`||[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
-|Moment|:page_facing_up: `moment-with-locales.min.js`|:package: [moment/moment](https://github.com/moment/moment)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.22.2-blue.svg)](https://unpkg.com/moment/min/moment-with-locales.min.js)|
 |SVG|:page_facing_up: `svg.min.js`|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
 |Fomantic UI|:file_folder: `*dir`|:package: [hammy2899/Fomantic-UI](https://github.com/hammy2899/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.4.4-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
 ||:page_facing_up: `tablesort.js`||[![Semantic UI JS Library](https://img.shields.io/badge/fomantic-v0.0.11-blue.svg)](https://fomantic-ui.com/javascript/library/tablesort.js)|
@@ -56,8 +55,6 @@ Y-System Website Static Files
 ├── id\
 │   ├── GB2260.min.js
 │   └── IDValidator.min.js
-├── moment\
-│   └── moment-with-locales.min.js
 ├── svg\
 │   └── svg.min.js
 ├── ui\
