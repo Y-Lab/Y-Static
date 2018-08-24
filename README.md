@@ -5,39 +5,39 @@ Y-System Website Static Files
 
 |Category|File|Repository|Version|
 |:--|:--|:--|:--|
-|Basic|:page_facing_up: `jquery.min.js`|:package: [jquery/jquery](https://github.com/jquery/jquery)|[![UNPKG](https://img.shields.io/badge/unpkg-v3.3.1-blue.svg)](https://unpkg.com/jquery/dist/jquery.min.js)|
-|Echarts|:page_facing_up: `echarts.min.js`|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|[![UNPKG](https://img.shields.io/badge/unpkg-v4.1.0-blue.svg)](https://unpkg.com/echarts/dist/echarts.min.js)|
-||:page_facing_up: `macarons.js`||[![UNPKG](https://img.shields.io/badge/unpkg-v4.1.0-blue.svg)](https://unpkg.com/echarts/theme/macarons.js)|
+|Basic|:page_facing_up: `jquery.min.js`|:package: [jquery/jquery](https://github.com/jquery/jquery)|[![UNPKG](https://img.shields.io/badge/UNPKG-v3.3.1-blue.svg)](https://unpkg.com/jquery/dist/jquery.min.js)|
+|Echarts|:page_facing_up: `echarts.min.js`|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|[![UNPKG](https://img.shields.io/badge/UNPKG-v4.1.0-blue.svg)](https://unpkg.com/echarts/dist/echarts.min.js)|
+||:page_facing_up: `macarons.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v4.1.0-blue.svg)](https://unpkg.com/echarts/theme/macarons.js)|
 ||:page_facing_up: `macarons.min.js`|||
-||:page_facing_up: `world.js`||[![UNPKG](https://img.shields.io/badge/unpkg-v4.1.0-blue.svg)](https://unpkg.com/echarts/map/js/world.js)|
-|Clipboard|:page_facing_up: `clipboard.min.js`|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.0.1-blue.svg)](https://unpkg.com/clipboard/dist/clipboard.min.js)|
-|Count Up/Down|:page_facing_up: `countUp.min.js`|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|[![UNPKG](https://img.shields.io/badge/unpkg-v1.8.2-blue.svg)](https://unpkg.com/countup/dist/countUp.min.js)|
-||:page_facing_up: `jquery.countdown.min.js`|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.2.0-blue.svg)](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|
-|Day|:page_facing_up: `dayjs.min.js`|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|[![UNPKG](https://img.shields.io/badge/unpkg-v1.7.5-blue.svg)](https://unpkg.com/dayjs/dayjs.min.js)|
-||:page_facing_up: `zh-cn.js`||[![UNPKG](https://img.shields.io/badge/unpkg-v1.7.5-blue.svg)](https://unpkg.com/dayjs/locale/zh-cn.js)|
-||:page_facing_up: `relativeTime.js`||[![UNPKG](https://img.shields.io/badge/unpkg-v1.7.5-blue.svg)](https://unpkg.com/dayjs/plugin/relativeTime.js)|
-|Rich Text Editor|:page_facing_up: `trix.js`|:package: [basecamp/trix](https://github.com/basecamp/trix)|[![UNPKG](https://img.shields.io/badge/unpkg-v0.12.0-blue.svg)](https://unpkg.com/trix/dist/trix.js)|
-||:page_facing_up: `trix.css`||[![UNPKG](https://img.shields.io/badge/unpkg-v0.12.0-blue.svg)](https://unpkg.com/trix/dist/trix.css)|
+||:page_facing_up: `world.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v4.1.0-blue.svg)](https://unpkg.com/echarts/map/js/world.js)|
+|Clipboard|:page_facing_up: `clipboard.min.js`|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.0.1-blue.svg)](https://unpkg.com/clipboard/dist/clipboard.min.js)|
+|Count Up/Down|:page_facing_up: `countUp.min.js`|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.8.2-blue.svg)](https://unpkg.com/countup/dist/countUp.min.js)|
+||:page_facing_up: `jquery.countdown.min.js`|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.2.0-blue.svg)](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|
+|Day|:page_facing_up: `dayjs.min.js`|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/dayjs.min.js)|
+||:page_facing_up: `zh-cn.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/locale/zh-cn.js)|
+||:page_facing_up: `relativeTime.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/plugin/relativeTime.js)|
+|Rich Text Editor|:page_facing_up: `trix.js`|:package: [basecamp/trix](https://github.com/basecamp/trix)|[![UNPKG](https://img.shields.io/badge/UNPKG-v0.12.0-blue.svg)](https://unpkg.com/trix/dist/trix.js)|
+||:page_facing_up: `trix.css`||[![UNPKG](https://img.shields.io/badge/UNPKG-v0.12.0-blue.svg)](https://unpkg.com/trix/dist/trix.css)|
 ||:page_facing_up: `trix.min.css`|||
-|ID Validator|:page_facing_up: `IDValidator.min.js`|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
-||:page_facing_up: `GB2260.min.js`||[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
-|Lato|:page_facing_up: `lato.css`|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|
+|ID Validator|:page_facing_up: `IDValidator.min.js`|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
+||:page_facing_up: `GB2260.min.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
+|Lato|:page_facing_up: `lato.css`|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|
 ||:page_facing_up: `lato.min.css`|||
-||:page_facing_up: `lato-italic-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)|
-||:page_facing_up: `lato-italic.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2)|
-||:page_facing_up: `lato-bold-italic-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2)|
-||:page_facing_up: `lato-bold-italic.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2)|
-||:page_facing_up: `lato-regular-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2)|
-||:page_facing_up: `lato-regular.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2)|
-||:page_facing_up: `lato-bold-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)|
-||:page_facing_up: `lato-bold.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)|
-|SVG|:page_facing_up: `svg.min.js`|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
-|Fomantic UI|:file_folder: `*dir`|:package: [hammy2899/Fomantic-UI](https://github.com/hammy2899/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.4.4-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
+||:page_facing_up: `lato-italic-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)|
+||:page_facing_up: `lato-italic.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2)|
+||:page_facing_up: `lato-bold-italic-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2)|
+||:page_facing_up: `lato-bold-italic.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2)|
+||:page_facing_up: `lato-regular-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2)|
+||:page_facing_up: `lato-regular.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2)|
+||:page_facing_up: `lato-bold-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)|
+||:page_facing_up: `lato-bold.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)|
+|SVG|:page_facing_up: `svg.min.js`|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
+|Fomantic UI|:file_folder: `*dir`|:package: [hammy2899/Fomantic-UI](https://github.com/hammy2899/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.4.4-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
 ||:page_facing_up: `tablesort.js`||[![Semantic UI JS Library](https://img.shields.io/badge/fomantic-v0.0.11-blue.svg)](https://fomantic-ui.com/javascript/library/tablesort.js)|
 ||:page_facing_up: `tablesort.min.js`|||
-||:page_facing_up: `calendar.min.css`|:package: [mdehoog/Semantic-UI-Calendar](https://github.com/mdehoog/Semantic-UI-Calendar)|[![UNPKG](https://img.shields.io/badge/unpkg-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)|
-||:page_facing_up: `calendar.min.js`||[![UNPKG](https://img.shields.io/badge/unpkg-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.js)|
-|XSS|:page_facing_up: `xss.min.js`|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|[![UNPKG](https://img.shields.io/badge/unpkg-v1.0.3-blue.svg)](https://unpkg.com/xss/dist/xss.min.js)|
+||:page_facing_up: `calendar.min.css`|:package: [mdehoog/Semantic-UI-Calendar](https://github.com/mdehoog/Semantic-UI-Calendar)|[![UNPKG](https://img.shields.io/badge/UNPKG-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)|
+||:page_facing_up: `calendar.min.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.js)|
+|XSS|:page_facing_up: `xss.min.js`|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.0.3-blue.svg)](https://unpkg.com/xss/dist/xss.min.js)|
 
 ## File Structure
 ```
