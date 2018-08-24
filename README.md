@@ -21,6 +21,16 @@ Y-System Website Static Files
 ||:page_facing_up: `trix.min.css`|||
 |ID Validator|:page_facing_up: `IDValidator.min.js`|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||:page_facing_up: `GB2260.min.js`||[![UNPKG](https://img.shields.io/badge/unpkg-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
+|Lato|:page_facing_up: `lato.css`|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|
+||:page_facing_up: `lato.min.css`|||
+||:page_facing_up: `lato-italic-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)|
+||:page_facing_up: `lato-italic.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2)|
+||:page_facing_up: `lato-bold-italic-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2)|
+||:page_facing_up: `lato-bold-italic.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2)|
+||:page_facing_up: `lato-regular-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2)|
+||:page_facing_up: `lato-regular.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2)|
+||:page_facing_up: `lato-bold-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)|
+||:page_facing_up: `lato-bold.woff2`||[![Google Fonts](https://img.shields.io/badge/googlefont-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)|
 |SVG|:page_facing_up: `svg.min.js`|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
 |Fomantic UI|:file_folder: `*dir`|:package: [hammy2899/Fomantic-UI](https://github.com/hammy2899/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/unpkg-v2.4.4-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
 ||:page_facing_up: `tablesort.js`||[![Semantic UI JS Library](https://img.shields.io/badge/fomantic-v0.0.11-blue.svg)](https://fomantic-ui.com/javascript/library/tablesort.js)|
@@ -37,7 +47,7 @@ Y-System Website Static Files
 ├── chart\
 │   ├── echarts.min.js
 │   ├── macarons.js
-│   ├── macarons.min.js
+│   ├── macarons.min.js [M]
 │   └── world.js
 ├── clipboard\
 │   └── clipboard.min.js
@@ -50,11 +60,22 @@ Y-System Website Static Files
 │   └── zh-cn.js
 ├── editor\
 │   ├── trix.css
-│   ├── trix.min.css
+│   ├── trix.min.css [M]
 │   └── trix.js
 ├── id\
 │   ├── GB2260.min.js
 │   └── IDValidator.min.js
+├── lato\
+│   ├── lato.css [M]
+│   ├── lato.min.css [M]
+│   ├── lato-italic-ext.woff2
+│   ├── lato-italic.woff2
+│   ├── lato-bold-italic-ext.woff2
+│   ├── lato-bold-italic.woff2
+│   ├── lato-regular-ext.woff2
+│   ├── lato-regular.woff2
+│   ├── lato-bold-ext.woff2
+│   └── lato-bold.woff2
 ├── svg\
 │   └── svg.min.js
 ├── ui\
@@ -80,12 +101,12 @@ Y-System Website Static Files
 │   │           │   └── outline-icons.woff2
 │   │           └── images\
 │   │               └── flags.png
-│   ├── calendar.min.css
+│   ├── calendar.min.css [M]
 │   ├── calendar.min.js
-│   ├── semantic.min.css
-│   ├── semantic.min.js
+│   ├── semantic.min.css [M]
+│   ├── semantic.min.js [M]
 │   ├── tablesort.js
-│   └── tablesort.min.js
+│   └── tablesort.min.js [M]
 └── xss\
     └── xss.min.js
 ```
