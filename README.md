@@ -35,8 +35,6 @@ Y-System Website Static Files
 |Fomantic UI|:file_folder: `*dir`|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.5.0-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
 ||:page_facing_up: `tablesort.js`||[![Semantic UI JS Library](https://img.shields.io/badge/fomantic-v0.0.11-blue.svg)](https://fomantic-ui.com/javascript/library/tablesort.js)|
 ||:page_facing_up: `tablesort.min.js`|||
-||:page_facing_up: `calendar.min.css`|:package: [mdehoog/Semantic-UI-Calendar](https://github.com/mdehoog/Semantic-UI-Calendar)|[![UNPKG](https://img.shields.io/badge/UNPKG-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)|
-||:page_facing_up: `calendar.min.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.js)|
 |XSS|:page_facing_up: `xss.min.js`|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.0.3-blue.svg)](https://unpkg.com/xss/dist/xss.min.js)|
 
 ## File Structure
@@ -100,8 +98,6 @@ Y-System Website Static Files
 │   │           │   └── outline-icons.woff2
 │   │           └── images\
 │   │               └── flags.png
-│   ├── calendar.min.css [M]
-│   ├── calendar.min.js
 │   ├── semantic.min.css [M]
 │   ├── semantic.min.js [M]
 │   ├── tablesort.js
