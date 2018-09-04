@@ -32,7 +32,7 @@ Y-System Website Static Files
 ||:page_facing_up: `lato-bold-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)|
 ||:page_facing_up: `lato-bold.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)|
 |SVG|:page_facing_up: `svg.min.js`|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
-|Fomantic UI|:file_folder: `*dir`|:package: [hammy2899/Fomantic-UI](https://github.com/hammy2899/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.4.4-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
+|Fomantic UI|:file_folder: `*dir`|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.5.0-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
 ||:page_facing_up: `tablesort.js`||[![Semantic UI JS Library](https://img.shields.io/badge/fomantic-v0.0.11-blue.svg)](https://fomantic-ui.com/javascript/library/tablesort.js)|
 ||:page_facing_up: `tablesort.min.js`|||
 ||:page_facing_up: `calendar.min.css`|:package: [mdehoog/Semantic-UI-Calendar](https://github.com/mdehoog/Semantic-UI-Calendar)|[![UNPKG](https://img.shields.io/badge/UNPKG-v0.0.8-blue.svg)](https://unpkg.com/semantic-ui-calendar/dist/calendar.min.css)|
@@ -89,7 +89,6 @@ Y-System Website Static Files
 │   │           │   ├── brand-icons.woff
 │   │           │   ├── brand-icons.woff2
 │   │           │   ├── icons.eot
-│   │           │   ├── icons.otf
 │   │           │   ├── icons.svg
 │   │           │   ├── icons.ttf
 │   │           │   ├── icons.woff
