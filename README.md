@@ -31,6 +31,8 @@ Y-System Website Static Files
 ||:page_facing_up: `lato-regular.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2)|
 ||:page_facing_up: `lato-bold-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)|
 ||:page_facing_up: `lato-bold.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)|
+|Player|:page_facing_up: `player.min.css`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|[![Y-Lab](https://img.shields.io/badge/Y--Lab-v1.0.0-blue.svg)](https://github.com/Y-Lab/Y-Player)|
+||:page_facing_up: `player.min.js`|||
 |SVG|:page_facing_up: `svg.min.js`|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
 |Fomantic UI|:file_folder: `*dir`|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.5.0-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
 ||:page_facing_up: `tablesort.js`||[![Semantic UI JS Library](https://img.shields.io/badge/fomantic-v0.0.11-blue.svg)](https://fomantic-ui.com/javascript/library/tablesort.js)|
@@ -74,6 +76,9 @@ Y-System Website Static Files
 │   ├── lato-regular.woff2
 │   ├── lato-bold-ext.woff2
 │   └── lato-bold.woff2
+├── player\
+│   ├── player.min.css [M]
+│   └── player.min.js [M]
 ├── svg\
 │   └── svg.min.js
 ├── ui\
