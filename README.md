@@ -77,8 +77,8 @@ Y-System Website Static Files
 │   ├── lato-bold-ext.woff2
 │   └── lato-bold.woff2
 ├── player\
-│   ├── player.min.css [M]
-│   └── player.min.js [M]
+│   ├── player.min.css
+│   └── player.min.js
 ├── svg\
 │   └── svg.min.js
 ├── ui\
