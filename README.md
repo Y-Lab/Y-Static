@@ -16,8 +16,8 @@ Y-System Website Static Files
 |Day|:page_facing_up: `dayjs.min.js`|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/dayjs.min.js)|
 ||:page_facing_up: `zh-cn.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/locale/zh-cn.js)|
 ||:page_facing_up: `relativeTime.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/plugin/relativeTime.js)|
-|Rich Text Editor|:page_facing_up: `trix.js`|:package: [basecamp/trix](https://github.com/basecamp/trix)|[![UNPKG](https://img.shields.io/badge/UNPKG-v0.12.0-blue.svg)](https://unpkg.com/trix/dist/trix.js)|
-||:page_facing_up: `trix.css`||[![UNPKG](https://img.shields.io/badge/UNPKG-v0.12.0-blue.svg)](https://unpkg.com/trix/dist/trix.css)|
+|Rich Text Editor|:page_facing_up: `trix.js`|:package: [basecamp/trix](https://github.com/basecamp/trix)|[![UNPKG](https://img.shields.io/badge/UNPKG-v0.12.1-blue.svg)](https://unpkg.com/trix/dist/trix.js)|
+||:page_facing_up: `trix.css`||[![UNPKG](https://img.shields.io/badge/UNPKG-v0.12.1-blue.svg)](https://unpkg.com/trix/dist/trix.css)|
 ||:page_facing_up: `trix.min.css`|||
 |ID Validator|:page_facing_up: `IDValidator.min.js`|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||:page_facing_up: `GB2260.min.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
