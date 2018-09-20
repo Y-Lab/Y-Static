@@ -1,3 +1,5 @@
+[![Last Commit](https://img.shields.io/github/last-commit/Y-Lab/Y-System-Static-Files.svg)](https://github.com/Y-Lab/Y-System-Static-Files/commits/master)
+
 # Y-System Static Files
 Y-System Website Static Files
 
