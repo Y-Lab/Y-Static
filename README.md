@@ -5,7 +5,6 @@ Y-System Website Static Files
 
 |Category|File|Repository|Version|
 |:--|:--|:--|:--|
-|Basic|:page_facing_up: `jquery.min.js`|:package: [jquery/jquery](https://github.com/jquery/jquery)|[![UNPKG](https://img.shields.io/badge/UNPKG-v3.3.1-blue.svg)](https://unpkg.com/jquery/dist/jquery.min.js)|
 |Echarts|:page_facing_up: `echarts.min.js`|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|[![UNPKG](https://img.shields.io/badge/UNPKG-v4.1.0-blue.svg)](https://unpkg.com/echarts/dist/echarts.min.js)|
 ||:page_facing_up: `macarons.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v4.1.0-blue.svg)](https://unpkg.com/echarts/theme/macarons.js)|
 ||:page_facing_up: `macarons.min.js`|||
@@ -21,6 +20,7 @@ Y-System Website Static Files
 ||:page_facing_up: `trix.min.css`|||
 |ID Validator|:page_facing_up: `IDValidator.min.js`|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||:page_facing_up: `GB2260.min.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
+|jQuery|:page_facing_up: `jquery.min.js`|:package: [jquery/jquery](https://github.com/jquery/jquery)|[![UNPKG](https://img.shields.io/badge/UNPKG-v3.3.1-blue.svg)](https://unpkg.com/jquery/dist/jquery.min.js)|
 |Lato|:page_facing_up: `lato.css`|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|
 ||:page_facing_up: `lato.min.css`|||
 ||:page_facing_up: `lato-italic-ext.woff2`||[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-v14-blue.svg)](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)|
@@ -41,9 +41,6 @@ Y-System Website Static Files
 
 ## File Structure
 ```
-├── basic\
-│   └── js\
-│       └── jquery.min.js
 ├── chart\
 │   ├── echarts.min.js
 │   ├── macarons.js
@@ -65,6 +62,8 @@ Y-System Website Static Files
 ├── id\
 │   ├── GB2260.min.js
 │   └── IDValidator.min.js
+├── jquery\
+│   └── jquery.min.js
 ├── lato\
 │   ├── lato.css [M]
 │   ├── lato.min.css [M]
