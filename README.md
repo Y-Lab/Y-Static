@@ -14,11 +14,11 @@ Y-System Website Static Files
 |Clipboard|:page_facing_up: `clipboard.min.js`|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.0.1-blue.svg)](https://unpkg.com/clipboard/dist/clipboard.min.js)|
 |Count Up/Down|:page_facing_up: `countUp.min.js`|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.8.2-blue.svg)](https://unpkg.com/countup/dist/countUp.min.js)|
 ||:page_facing_up: `jquery.countdown.min.js`|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.2.0-blue.svg)](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|
-|Day|:page_facing_up: `dayjs.min.js`|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/dayjs.min.js)|
-||:page_facing_up: `zh-cn.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/locale/zh-cn.js)|
-||:page_facing_up: `relativeTime.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.5-blue.svg)](https://unpkg.com/dayjs/plugin/relativeTime.js)|
-|Rich Text Editor|:page_facing_up: `trix.js`|:package: [basecamp/trix](https://github.com/basecamp/trix)|[![UNPKG](https://img.shields.io/badge/UNPKG-v0.12.1-blue.svg)](https://unpkg.com/trix/dist/trix.js)|
-||:page_facing_up: `trix.css`||[![UNPKG](https://img.shields.io/badge/UNPKG-v0.12.1-blue.svg)](https://unpkg.com/trix/dist/trix.css)|
+|Day|:page_facing_up: `dayjs.min.js`|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.7-blue.svg)](https://unpkg.com/dayjs/dayjs.min.js)|
+||:page_facing_up: `zh-cn.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.7-blue.svg)](https://unpkg.com/dayjs/locale/zh-cn.js)|
+||:page_facing_up: `relativeTime.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.7-blue.svg)](https://unpkg.com/dayjs/plugin/relativeTime.js)|
+|Rich Text Editor|:page_facing_up: `trix.js`|:package: [basecamp/trix](https://github.com/basecamp/trix)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.0.0-blue.svg)](https://unpkg.com/trix/dist/trix.js)|
+||:page_facing_up: `trix.css`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.0.0-blue.svg)](https://unpkg.com/trix/dist/trix.css)|
 ||:page_facing_up: `trix.min.css`|||
 |ID Validator|:page_facing_up: `IDValidator.min.js`|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||:page_facing_up: `GB2260.min.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
