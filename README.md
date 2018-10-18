@@ -36,7 +36,7 @@ Y-System Website Static Files
 |Player|:page_facing_up: `player.min.css`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|[![Y-Lab](https://img.shields.io/badge/Y--Lab-v1.0.0-blue.svg)](https://github.com/Y-Lab/Y-Player)|
 ||:page_facing_up: `player.min.js`|||
 |SVG|:page_facing_up: `svg.min.js`|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.6.2-blue.svg)](https://unpkg.com/svgjs/dist/svg.min.js)|
-|Fomantic UI|:file_folder: `*dir`|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.6.2-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
+|Fomantic UI|:file_folder: `*dir`|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.6.3-blue.svg)](https://unpkg.com/fomantic-ui/dist/)|
 ||:page_facing_up: `tablesort.js`||[![Semantic UI JS Library](https://img.shields.io/badge/Fomantic%20UI-v0.0.11-blue.svg)](https://fomantic-ui.com/javascript/library/tablesort.js)|
 ||:page_facing_up: `tablesort.min.js`|||
 |XSS|:page_facing_up: `xss.min.js`|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.0.3-blue.svg)](https://unpkg.com/xss/dist/xss.min.js)|
