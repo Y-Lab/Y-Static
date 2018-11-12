@@ -20,6 +20,7 @@ Y-System Website Static Files
 |Rich Text Editor|:page_facing_up: `trix.js`|:package: [basecamp/trix](https://github.com/basecamp/trix)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.0.0-blue.svg)](https://unpkg.com/trix/dist/trix.js)|
 ||:page_facing_up: `trix.css`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.0.0-blue.svg)](https://unpkg.com/trix/dist/trix.css)|
 ||:page_facing_up: `trix.min.css`|||
+|HLS|:page_facing_up: `hls.min.js`|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v0.11.0-blue.svg)](https://unpkg.com/hls.js/dist/hls.min.js)|
 |ID Validator|:page_facing_up: `IDValidator.min.js`|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/IDValidator.min.js)|
 ||:page_facing_up: `GB2260.min.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v1.3.0-blue.svg)](https://unpkg.com/id-validator/GB2260.min.js)|
 |jQuery|:page_facing_up: `jquery.min.js`|:package: [jquery/jquery](https://github.com/jquery/jquery)|[![UNPKG](https://img.shields.io/badge/UNPKG-v3.3.1-blue.svg)](https://unpkg.com/jquery/dist/jquery.min.js)|
@@ -61,6 +62,8 @@ Y-System Website Static Files
 │   ├── trix.css
 │   ├── trix.min.css [M]
 │   └── trix.js
+├── hls\
+│   └── hls.min.js
 ├── id\
 │   ├── GB2260.min.js
 │   └── IDValidator.min.js
