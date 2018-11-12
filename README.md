@@ -11,7 +11,7 @@ Y-System Website Static Files
 ||:page_facing_up: `macarons.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v4.1.0-blue.svg)](https://unpkg.com/echarts/theme/macarons.js)|
 ||:page_facing_up: `macarons.min.js`|||
 ||:page_facing_up: `world.js`||[![UNPKG](https://img.shields.io/badge/UNPKG-v4.1.0-blue.svg)](https://unpkg.com/echarts/map/js/world.js)|
-|Clipboard|:page_facing_up: `clipboard.min.js`|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.0.1-blue.svg)](https://unpkg.com/clipboard/dist/clipboard.min.js)|
+|Clipboard|:page_facing_up: `clipboard.min.js`|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.0.3-blue.svg)](https://unpkg.com/clipboard/dist/clipboard.min.js)|
 |Count Up/Down|:page_facing_up: `countUp.min.js`|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.9.3-blue.svg)](https://unpkg.com/countup.js/dist/countUp.min.js)|
 ||:page_facing_up: `jquery.countdown.min.js`|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|[![UNPKG](https://img.shields.io/badge/UNPKG-v2.2.0-blue.svg)](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|
 |Day|:page_facing_up: `dayjs.min.js`|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|[![UNPKG](https://img.shields.io/badge/UNPKG-v1.7.7-blue.svg)](https://unpkg.com/dayjs/dayjs.min.js)|
