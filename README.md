@@ -61,7 +61,7 @@ Y-System Website Static Files
 │   ├── relativeTime.js
 │   └── zh-cn.js
 ├── hls\
-│   └── hls.min.js
+│   └── hls.min.js [M]
 ├── id\
 │   ├── GB2260.min.js
 │   └── IDValidator.min.js
