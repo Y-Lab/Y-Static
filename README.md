@@ -33,7 +33,7 @@ Y-System Website Static Files
 ||:page_facing_up: [`lato-bold.woff2`](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)||||
 |Player|:page_facing_up: `player.min.css`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.0`||
 ||:page_facing_up: `player.min.js`||||
-|SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`2.7.0`|![Latest Release](https://img.shields.io/npm/v/svg.js.svg)|
+|SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`2.7.1`|![Latest Release](https://img.shields.io/npm/v/svg.js.svg)|
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.0.0`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
