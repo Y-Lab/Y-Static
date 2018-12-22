@@ -17,7 +17,7 @@ Y-System Website Static Files
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.7.8`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.12.1`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
+|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.12.2`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.3.1`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
@@ -37,7 +37,7 @@ Y-System Website Static Files
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.0.0`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
-|Fomantic UI|:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.6.4`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
+|Fomantic UI|:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.0`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)||||
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:page_facing_up: [`tablesort.js`](https://fomantic-ui.com/javascript/library/tablesort.js)||`0.0.11`||
