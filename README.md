@@ -14,10 +14,10 @@ Y-System Website Static Files
 |Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.4`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
 |Count|:page_facing_up: [`countUp.min.js`](https://unpkg.com/countup.js/dist/countUp.min.js)|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|`1.9.3`|![Latest Release](https://img.shields.io/npm/v/countup.js.svg)|
 ||:page_facing_up: [`jquery.countdown.min.js`](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|`2.2.0`|![Latest Release](https://img.shields.io/npm/v/jquery-countdown.svg)|
-|Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.8.9`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
+|Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.8.10`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.12.2`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
+|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.12.4`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.3.1`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
@@ -31,7 +31,7 @@ Y-System Website Static Files
 ||:page_facing_up: [`lato-regular.woff2`](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2)||||
 ||:page_facing_up: [`lato-bold-ext.woff2`](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)||||
 ||:page_facing_up: [`lato-bold.woff2`](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)||||
-|Player|:page_facing_up: `player.min.css`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.1`|[![GitHub tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
+|Player|:page_facing_up: `player.min.css`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.2`|[![GitHub tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.js`||||
 |SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`2.7.1`|![Latest Release](https://img.shields.io/npm/v/svg.js.svg)|
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.1.0`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
