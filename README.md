@@ -42,7 +42,7 @@ Y-System Website Static Files
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:page_facing_up: [`tablesort.js`](https://fomantic-ui.com/javascript/library/tablesort.js)||`0.0.11`||
 ||:page_facing_up: `tablesort.min.js`||||
-|XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.3`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
+|XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.5`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
 ## File Structure
 ```
