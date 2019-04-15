@@ -20,7 +20,7 @@ Y-System Website Static Files
 |HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.12.4`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
-|jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.3.1`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
+|jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.4.0`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
 |Lato|:page_facing_up: [`lato.css`](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|`14`||
 ||:page_facing_up: `lato.min.css`||||
 ||:page_facing_up: [`lato-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)||||
