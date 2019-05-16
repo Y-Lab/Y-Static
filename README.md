@@ -37,7 +37,7 @@ Y-System Website Static Files
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.1.1`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
-|Fomantic UI|:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.4`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
+|Fomantic UI|:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.5`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)||||
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:page_facing_up: [`tablesort.js`](https://fomantic-ui.com/javascript/library/tablesort.js)||`0.0.11`||
