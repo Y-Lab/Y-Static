@@ -1,7 +1,7 @@
-[![Last Commit](https://img.shields.io/github/last-commit/Y-Lab/Y-System-Static-Files.svg)](https://github.com/Y-Lab/Y-System-Static-Files/commits/master)
+[![Last Commit](https://img.shields.io/github/last-commit/Y-Lab/Y-Static.svg)](https://github.com/Y-Lab/Y-Static/commits/master)
 
-# Y-System Static Files
-Y-System Website Static Files
+# Y-Static
+Y-English Website Static Files
 
 ## Assets
 
@@ -21,6 +21,10 @@ Y-System Website Static Files
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.4.1`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
+|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.10.2`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
+||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
+||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
+||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
 |Lato|:page_facing_up: [`lato.css`](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|`14`||
 ||:page_facing_up: `lato.min.css`||||
 ||:page_facing_up: [`lato-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v14/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)||||
@@ -31,15 +35,15 @@ Y-System Website Static Files
 ||:page_facing_up: [`lato-regular.woff2`](https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2)||||
 ||:page_facing_up: [`lato-bold-ext.woff2`](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)||||
 ||:page_facing_up: [`lato-bold.woff2`](https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)||||
-|Player|:page_facing_up: `player.min.css`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.2`|[![GitHub tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
-||:page_facing_up: `player.min.js`||||
+|Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.2`|[![GitHub tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
+||:page_facing_up: `player.min.css`||||
 |SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`2.7.1`|![Latest Release](https://img.shields.io/npm/v/svg.js.svg)|
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.1.1`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
-|Fomantic UI|:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.5`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
-||:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)||||
+|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.5`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
+||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
 ||:page_facing_up: [`tablesort.js`](https://fomantic-ui.com/javascript/library/tablesort.js)||`0.0.11`||
 ||:page_facing_up: `tablesort.min.js`||||
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.6`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
@@ -67,6 +71,70 @@ Y-System Website Static Files
 │   └── IDValidator.min.js
 ├── jquery\
 │   └── jquery.min.js
+├── katex\
+│   ├── fonts\
+│   │   ├── KaTeX_AMS-Regular.ttf
+│   │   ├── KaTeX_AMS-Regular.woff
+│   │   ├── KaTeX_AMS-Regular.woff2
+│   │   ├── KaTeX_Caligraphic-Bold.ttf
+│   │   ├── KaTeX_Caligraphic-Bold.woff
+│   │   ├── KaTeX_Caligraphic-Bold.woff2
+│   │   ├── KaTeX_Caligraphic-Regular.ttf
+│   │   ├── KaTeX_Caligraphic-Regular.woff
+│   │   ├── KaTeX_Caligraphic-Regular.woff2
+│   │   ├── KaTeX_Fraktur-Bold.ttf
+│   │   ├── KaTeX_Fraktur-Bold.woff
+│   │   ├── KaTeX_Fraktur-Bold.woff2
+│   │   ├── KaTeX_Fraktur-Regular.ttf
+│   │   ├── KaTeX_Fraktur-Regular.woff
+│   │   ├── KaTeX_Fraktur-Regular.woff2
+│   │   ├── KaTeX_Main-Bold.ttf
+│   │   ├── KaTeX_Main-Bold.woff
+│   │   ├── KaTeX_Main-Bold.woff2
+│   │   ├── KaTeX_Main-BoldItalic.ttf
+│   │   ├── KaTeX_Main-BoldItalic.woff
+│   │   ├── KaTeX_Main-BoldItalic.woff2
+│   │   ├── KaTeX_Main-Italic.ttf
+│   │   ├── KaTeX_Main-Italic.woff
+│   │   ├── KaTeX_Main-Italic.woff2
+│   │   ├── KaTeX_Main-Regular.ttf
+│   │   ├── KaTeX_Main-Regular.woff
+│   │   ├── KaTeX_Main-Regular.woff2
+│   │   ├── KaTeX_Math-BoldItalic.ttf
+│   │   ├── KaTeX_Math-BoldItalic.woff
+│   │   ├── KaTeX_Math-BoldItalic.woff2
+│   │   ├── KaTeX_Math-Italic.ttf
+│   │   ├── KaTeX_Math-Italic.woff
+│   │   ├── KaTeX_Math-Italic.woff2
+│   │   ├── KaTeX_SansSerif-Bold.ttf
+│   │   ├── KaTeX_SansSerif-Bold.woff
+│   │   ├── KaTeX_SansSerif-Bold.woff2
+│   │   ├── KaTeX_SansSerif-Italic.ttf
+│   │   ├── KaTeX_SansSerif-Italic.woff
+│   │   ├── KaTeX_SansSerif-Italic.woff2
+│   │   ├── KaTeX_SansSerif-Regular.ttf
+│   │   ├── KaTeX_SansSerif-Regular.woff
+│   │   ├── KaTeX_SansSerif-Regular.woff2
+│   │   ├── KaTeX_Script-Regular.ttf
+│   │   ├── KaTeX_Script-Regular.woff
+│   │   ├── KaTeX_Script-Regular.woff2
+│   │   ├── KaTeX_Size1-Regular.ttf
+│   │   ├── KaTeX_Size1-Regular.woff
+│   │   ├── KaTeX_Size1-Regular.woff2
+│   │   ├── KaTeX_Size2-Regular.ttf
+│   │   ├── KaTeX_Size2-Regular.woff
+│   │   ├── KaTeX_Size2-Regular.woff2
+│   │   ├── KaTeX_Size3-Regular.ttf
+│   │   ├── KaTeX_Size3-Regular.woff
+│   │   ├── KaTeX_Size3-Regular.woff2
+│   │   ├── KaTeX_Size4-Regular.ttf
+│   │   ├── KaTeX_Size4-Regular.woff
+│   │   ├── KaTeX_Size4-Regular.woff2
+│   │   ├── KaTeX_Typewriter-Regular.ttf
+│   │   └── KaTeX_Typewriter-Regular.woff
+│   ├── auto-render.min.js
+│   ├── katex.min.css
+│   └── katex.min.js
 ├── lato\
 │   ├── lato.css [M]
 │   ├── lato.min.css [M]
