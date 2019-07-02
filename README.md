@@ -44,8 +44,7 @@ Y-English Website Static Files
 |Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.6`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
-||:page_facing_up: [`tablesort.js`](https://fomantic-ui.com/javascript/library/tablesort.js)|:package: [kylefox/jquery-tablesort](https://github.com/kylefox/jquery-tablesort)|`0.0.11`|![Latest Release](https://img.shields.io/npm/v/jquery-tablesort.svg)|
-||:page_facing_up: `tablesort.min.js`||||
+||:page_facing_up: [`tablesort.min.js`](https://unpkg.com/jquery-tablesort/jquery.tablesort.min.js)|:package: [kylefox/jquery-tablesort](https://github.com/kylefox/jquery-tablesort)|`0.0.11`|![Latest Release](https://img.shields.io/npm/v/jquery-tablesort.svg)|
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.6`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
 ## File Structure
@@ -179,7 +178,6 @@ Y-English Website Static Files
 │   │               └── flags.png
 │   ├── semantic.min.css [M]
 │   ├── semantic.min.js [M]
-│   ├── tablesort.js
 │   └── tablesort.min.js [M]
 └── xss\
     └── xss.min.js
