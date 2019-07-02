@@ -38,13 +38,13 @@ Y-English Website Static Files
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.2`|[![GitHub tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
 |SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.0.13`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
+|Table|:page_facing_up: [`jquery.tablesort.min.js`](https://unpkg.com/jquery-tablesort/jquery.tablesort.min.js)|:package: [kylefox/jquery-tablesort](https://github.com/kylefox/jquery-tablesort)|`0.0.11`|![Latest Release](https://img.shields.io/npm/v/jquery-tablesort.svg)|
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.1.1`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
 |Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.6`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
-||:page_facing_up: [`tablesort.min.js`](https://unpkg.com/jquery-tablesort/jquery.tablesort.min.js)|:package: [kylefox/jquery-tablesort](https://github.com/kylefox/jquery-tablesort)|`0.0.11`|![Latest Release](https://img.shields.io/npm/v/jquery-tablesort.svg)|
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.6`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
 ## File Structure
@@ -150,6 +150,8 @@ Y-English Website Static Files
 │   └── player.min.js
 ├── svg\
 │   └── svg.min.js
+├── table\
+│   └── jquery.tablesort.min.js
 ├── trix\
 │   ├── trix.css
 │   ├── trix.min.css [M]
@@ -177,8 +179,7 @@ Y-English Website Static Files
 │   │           └── images\
 │   │               └── flags.png
 │   ├── semantic.min.css [M]
-│   ├── semantic.min.js [M]
-│   └── tablesort.min.js [M]
+│   └── semantic.min.js [M]
 └── xss\
     └── xss.min.js
 ```
