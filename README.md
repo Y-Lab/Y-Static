@@ -155,7 +155,7 @@ Y-English Website Static Files
 ├── trix\
 │   ├── trix.css
 │   ├── trix.min.css [M]
-│   └── trix.js
+│   └── trix.js [M]
 ├── ui\
 │   ├── themes\
 │   │   └── default\
