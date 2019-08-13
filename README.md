@@ -25,16 +25,16 @@ Y-English Website Static Files
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
-|Lato|:page_facing_up: [`lato.css`](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|`15`||
+|Lato|:page_facing_up: [`lato.css`](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|`16`||
 ||:page_facing_up: `lato.min.css`||||
-||:page_facing_up: [`lato-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v15/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)||||
-||:page_facing_up: [`lato-italic.woff2`](https://fonts.gstatic.com/s/lato/v15/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2)||||
-||:page_facing_up: [`lato-bold-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2)||||
-||:page_facing_up: [`lato-bold-italic.woff2`](https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2)||||
-||:page_facing_up: [`lato-regular-ext.woff2`](https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2)||||
-||:page_facing_up: [`lato-regular.woff2`](https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjx4wXiWtFCc.woff2)||||
-||:page_facing_up: [`lato-bold-ext.woff2`](https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)||||
-||:page_facing_up: [`lato-bold.woff2`](https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)||||
+||:page_facing_up: [`lato-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)||||
+||:page_facing_up: [`lato-italic.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2)||||
+||:page_facing_up: [`lato-bold-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2)||||
+||:page_facing_up: [`lato-bold-italic.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2)||||
+||:page_facing_up: [`lato-regular-ext.woff2`](https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2)||||
+||:page_facing_up: [`lato-regular.woff2`](https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wXiWtFCc.woff2)||||
+||:page_facing_up: [`lato-bold-ext.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)||||
+||:page_facing_up: [`lato-bold.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)||||
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.2`|[![GitHub tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
 |SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.0.13`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
