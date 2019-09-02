@@ -25,7 +25,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
-|Lato|:page_facing_up: [`lato.css`](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin)|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|`16`||
+|Lato|:page_facing_up: [`lato.css`](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin&display=swap)|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|`16`||
 ||:page_facing_up: `lato.min.css`||||
 ||:page_facing_up: [`lato-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)||||
 ||:page_facing_up: [`lato-italic.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2)||||
@@ -42,7 +42,7 @@ Y-English Website Static Files
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.2.0`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
-|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.7`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
+|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.7.8`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.6`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
