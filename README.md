@@ -7,7 +7,7 @@ Y-English Website Static Files
 
 |Category|File|Repository|Version|Latest Release|
 |:--|:--|:--|:--|:--|
-|Echarts|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`4.2.1`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
+|Echarts|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`4.3.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
 ||:page_facing_up: [`macarons.js`](https://unpkg.com/echarts/theme/macarons.js)||||
 ||:page_facing_up: `macarons.min.js`||||
 ||:page_facing_up: [`world.js`](https://unpkg.com/echarts/map/js/world.js)||||
@@ -21,7 +21,7 @@ Y-English Website Static Files
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.4.1`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
-|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.11.0`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
+|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.11.1`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
