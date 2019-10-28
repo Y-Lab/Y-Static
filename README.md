@@ -35,7 +35,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`lato-regular.woff2`](https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wXiWtFCc.woff2)||||
 ||:page_facing_up: [`lato-bold-ext.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)||||
 ||:page_facing_up: [`lato-bold.woff2`](https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)||||
-|Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.3b`|[![GitHub tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
+|Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.3`|[![GitHub tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
 |SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.0.13`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
 |Table|:page_facing_up: [`jquery.tablesort.min.js`](https://unpkg.com/jquery-tablesort/jquery.tablesort.min.js)|:package: [kylefox/jquery-tablesort](https://github.com/kylefox/jquery-tablesort)|`0.0.11`|![Latest Release](https://img.shields.io/npm/v/jquery-tablesort.svg)|
