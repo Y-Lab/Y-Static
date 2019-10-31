@@ -12,7 +12,7 @@ Y-English Website Static Files
 ||:page_facing_up: `macarons.min.js`||||
 ||:page_facing_up: [`world.js`](https://unpkg.com/echarts/map/js/world.js)||||
 |Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.4`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
-|Count|:page_facing_up: [`countUp.min.js`](https://unpkg.com/countup.js/dist/countUp.min.js)|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|`1.9.3` :pushpin:|![Latest Release](https://img.shields.io/npm/v/countup.js.svg)|
+|Count|:page_facing_up: [`countUp.min.js`](https://unpkg.com/countup.js/dist/countUp.min.js)|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|`1.9.3` :lock:|![Latest Release](https://img.shields.io/npm/v/countup.js.svg)|
 ||:page_facing_up: [`jquery.countdown.min.js`](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|`2.2.0`|![Latest Release](https://img.shields.io/npm/v/jquery-countdown.svg)|
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.8.16`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
