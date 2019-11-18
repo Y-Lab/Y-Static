@@ -7,7 +7,7 @@ Y-English Website Static Files
 
 |Category|File|Repository|Version|Latest Release|
 |:--|:--|:--|:--|:--|
-|Echarts|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`4.4.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
+|Echarts|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`4.5.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
 ||:page_facing_up: [`macarons.js`](https://unpkg.com/echarts/theme/macarons.js)||||
 ||:page_facing_up: `macarons.min.js`||||
 ||:page_facing_up: [`world.js`](https://unpkg.com/echarts/map/js/world.js)||||
@@ -43,7 +43,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
 |Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`12.1.4`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
-|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.1`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
+|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.2`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.6`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
