@@ -46,7 +46,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
 |Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`12.1.4`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
-|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.2`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
+|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.3`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.6`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
