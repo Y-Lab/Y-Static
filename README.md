@@ -7,7 +7,7 @@ Y-English Website Static Files
 
 |Category|File|Repository|Version|Latest Release|
 |:--|:--|:--|:--|:--|
-|Echarts|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`4.5.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
+|Echarts|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`4.6.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
 ||:page_facing_up: [`macarons.js`](https://unpkg.com/echarts/theme/macarons.js)||||
 ||:page_facing_up: `macarons.min.js`||||
 ||:page_facing_up: [`world.js`](https://unpkg.com/echarts/map/js/world.js)||||
