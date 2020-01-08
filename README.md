@@ -50,6 +50,9 @@ Y-English Website Static Files
 |Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.3`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
+|Wang Editor|:page_facing_up: [`wangEditor.min.js`](https://unpkg.com/wangeditor/release/wangEditor.min.js)|:package: [wangfupeng1988/wangEditor](https://github.com/wangfupeng1988/wangEditor)|`3.1.1`|![Latest Release](https://img.shields.io/npm/v/wangeditor.svg)|
+||:page_facing_up: [`wangEditor.min.css`](https://unpkg.com/wangeditor/release/wangEditor.min.css)||||
+||:page_facing_up: [`fonts/w-e-icon.woff`](https://unpkg.com/wangeditor/release/fonts/w-e-icon.woff)||||
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.6`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
 ## File Structure
@@ -194,6 +197,11 @@ Y-English Website Static Files
 │   │               └── flags.png
 │   ├── semantic.min.css [M]
 │   └── semantic.min.js [M]
+├── wang\
+│   ├── fonts\
+│   │   └── w-e-icon.woff
+│   ├── wangEditor.min.css
+│   └── wangEditor.min.js
 └── xss\
     └── xss.min.js
 ```
