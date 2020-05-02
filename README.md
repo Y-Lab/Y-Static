@@ -14,7 +14,7 @@ Y-English Website Static Files
 |Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.6`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
 |Count|:page_facing_up: [`countUp.min.js`](https://unpkg.com/countup.js/dist/countUp.min.js)|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|`1.9.3` :lock:|![Latest Release](https://img.shields.io/npm/v/countup.js.svg)|
 ||:page_facing_up: [`jquery.countdown.min.js`](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|`2.2.0`|![Latest Release](https://img.shields.io/npm/v/jquery-countdown.svg)|
-|Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.8.25`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
+|Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.8.26`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
 |Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.7.0`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
@@ -46,7 +46,7 @@ Y-English Website Static Files
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.2.3`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
-|Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`12.1.5`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
+|Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`12.1.6`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
 |Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.4`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
