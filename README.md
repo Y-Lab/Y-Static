@@ -47,7 +47,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
 |Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`13.0.0`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
-|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.4`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
+|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.5`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
 |Wang Editor|:page_facing_up: [`wangEditor.min.js`](https://unpkg.com/wangeditor/release/wangEditor.min.js)|:package: [wangfupeng1988/wangEditor](https://github.com/wangfupeng1988/wangEditor)|`3.1.1`|![Latest Release](https://img.shields.io/npm/v/wangeditor.svg)|
