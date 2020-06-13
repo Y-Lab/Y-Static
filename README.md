@@ -7,7 +7,7 @@ Y-English Website Static Files
 
 |Category|File|Repository|Version|Latest Release|
 |:--|:--|:--|:--|:--|
-|Echarts|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`4.7.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
+|Echarts|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`4.8.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
 ||:page_facing_up: [`macarons.js`](https://unpkg.com/echarts/theme/macarons.js)||||
 ||:page_facing_up: `macarons.min.js`||||
 ||:page_facing_up: [`world.js`](https://unpkg.com/echarts/map/js/world.js)||||
@@ -17,7 +17,7 @@ Y-English Website Static Files
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.8.28`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.7.0`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
+|Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.7.1`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
 ||:page_facing_up: [`dropzone.min.css`](https://unpkg.com/dropzone/dist/min/dropzone.min.css)||||
 ||:page_facing_up: [`basic.min.css`](https://unpkg.com/dropzone/dist/min/basic.min.css)||||
 |HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.13.2`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
@@ -53,7 +53,7 @@ Y-English Website Static Files
 |Wang Editor|:page_facing_up: [`wangEditor.min.js`](https://unpkg.com/wangeditor/release/wangEditor.min.js)|:package: [wangfupeng1988/wangEditor](https://github.com/wangfupeng1988/wangEditor)|`3.1.1`|![Latest Release](https://img.shields.io/npm/v/wangeditor.svg)|
 ||:page_facing_up: [`wangEditor.min.css`](https://unpkg.com/wangeditor/release/wangEditor.min.css)||||
 ||:page_facing_up: [`fonts/w-e-icon.woff`](https://unpkg.com/wangeditor/release/fonts/w-e-icon.woff)||||
-|XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.6`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
+|XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.7`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
 ## File Structure
 ```
