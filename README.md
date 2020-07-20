@@ -20,7 +20,7 @@ Y-English Website Static Files
 |Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.7.1`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
 ||:page_facing_up: [`dropzone.min.css`](https://unpkg.com/dropzone/dist/min/dropzone.min.css)||||
 ||:page_facing_up: [`basic.min.css`](https://unpkg.com/dropzone/dist/min/basic.min.css)||||
-|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.14.3`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
+|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.14.4`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.5.1`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
