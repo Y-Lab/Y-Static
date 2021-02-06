@@ -17,9 +17,9 @@ Y-English Website Static Files
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.10.4`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.7.2`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
-||:page_facing_up: [`dropzone.min.css`](https://unpkg.com/dropzone/dist/min/dropzone.min.css)||||
-||:page_facing_up: [`basic.min.css`](https://unpkg.com/dropzone/dist/min/basic.min.css)||||
+|Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.7.3`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
+||:page_facing_up: [`dropzone.css`](https://unpkg.com/dropzone/dist/min/dropzone.css)||||
+||:page_facing_up: [`basic.css`](https://unpkg.com/dropzone/dist/min/basic.css)||||
 |HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.14.17`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
