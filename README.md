@@ -17,7 +17,7 @@ Y-English Website Static Files
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.10.4`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.7.3`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
+|Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.7.4`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
 ||:page_facing_up: [`dropzone.css`](https://unpkg.com/dropzone/dist/min/dropzone.css)||||
 ||:page_facing_up: [`basic.css`](https://unpkg.com/dropzone/dist/min/basic.css)||||
 |HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`0.14.17`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
@@ -38,7 +38,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`lato-regular.woff2`](https://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wXiWtFCc.woff2)||||
 ||:page_facing_up: [`lato-bold-ext.woff2`](https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)||||
 ||:page_facing_up: [`lato-bold.woff2`](https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)||||
-|Marked|:page_facing_up: [`marked.min.js`](https://unpkg.com/marked/marked.min.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`1.2.9`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
+|Marked|:page_facing_up: [`marked.min.js`](https://unpkg.com/marked/marked.min.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`2.0.0`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.4`|[![GitHub Tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
 |SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.0.16`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
