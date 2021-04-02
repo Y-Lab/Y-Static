@@ -77,7 +77,8 @@ Y-English Website Static Files
 │   ├── dropzone.min.css
 │   └── dropzone.min.js
 ├── hls\
-│   └── hls.min.js [M]
+│   ├── hls.min.js
+│   └── hls.min.js.map
 ├── id\
 │   ├── GB2260.min.js
 │   └── IDValidator.min.js
