@@ -25,7 +25,7 @@ Y-English Website Static Files
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.6.0`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
-|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.13.5`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
+|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.13.9`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
@@ -54,7 +54,7 @@ Y-English Website Static Files
 |Wang Editor|:page_facing_up: [`wangEditor.min.js`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.js)|:package: [wangfupeng1988/wangEditor](https://github.com/wangfupeng1988/wangEditor)|`3.1.1` :lock:|![Latest Release](https://img.shields.io/npm/v/wangeditor.svg)|
 ||:page_facing_up: [`wangEditor.min.css`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.css)||||
 ||:page_facing_up: [`fonts/w-e-icon.woff`](https://unpkg.com/wangeditor@3.1.1/release/fonts/w-e-icon.woff)||||
-|XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.8`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
+|XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.9`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
 ## File Structure
 ```
