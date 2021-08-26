@@ -30,9 +30,9 @@ Y-English Website Static Files
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
-|Lato|:page_facing_up: [`lato.css`](https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin&display=swap)|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|`17`||
+|Lato|:page_facing_up: [`lato.css`](https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400%3B0,700%3B1,400%3B1,700&subset=latin&display=swap)|:package: [Google Fonts/Lato](https://fonts.google.com/specimen/Lato)|`20`||
 ||:page_facing_up: `lato.min.css`||||
-||:page_facing_up: [`lato-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v17/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)||||
+||:page_facing_up: [`lato-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v20/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2)||||
 ||:page_facing_up: [`lato-italic.woff2`](https://fonts.gstatic.com/s/lato/v17/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2)||||
 ||:page_facing_up: [`lato-bold-italic-ext.woff2`](https://fonts.gstatic.com/s/lato/v17/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2)||||
 ||:page_facing_up: [`lato-bold-italic.woff2`](https://fonts.gstatic.com/s/lato/v17/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2)||||
