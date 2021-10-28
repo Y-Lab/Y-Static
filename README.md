@@ -17,16 +17,16 @@ Y-English Website Static Files
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.10.7`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|Dropzone|:page_facing_up: [`dropzone.min.js`](https://unpkg.com/dropzone/dist/min/dropzone.min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`5.9.3`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
-||:page_facing_up: [`dropzone.min.css`](https://unpkg.com/dropzone/dist/min/dropzone.min.css)||||
-||:page_facing_up: [`basic.min.css`](https://unpkg.com/dropzone/dist/min/basic.min.css)||||
-|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.0.11`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
+|Dropzone|:page_facing_up: [`dropzone-min.js`](https://unpkg.com/dropzone/dist/dropzone-min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`6.0.0-beta.1`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
+||:page_facing_up: [`dropzone.css`](https://unpkg.com/dropzone/dist/dropzone.css)||||
+||:page_facing_up: [`basic.css`](https://unpkg.com/dropzone/dist/basic.css)||||
+|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.0.12`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 ||:page_facing_up: [`hls.min.js.map`](https://unpkg.com/hls.js/dist/hls.min.js.map)||||
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.6.0`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
 |jsencrypt|:page_facing_up: [`jsencrypt.min.js`](https://unpkg.com/jsencrypt/bin/jsencrypt.min.js)|:package: [travist/jsencrypt](https://github.com/travist/jsencrypt)|`3.2.1`|![Latest Release](https://img.shields.io/npm/v/jsencrypt.svg)|
-|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.13.19`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
+|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.13.20`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
@@ -75,9 +75,9 @@ Y-English Website Static Files
 │   ├── relativeTime.js
 │   └── zh-cn.js
 ├── dropzone\
-│   ├── basic.min.css
-│   ├── dropzone.min.css
-│   └── dropzone.min.js
+│   ├── basic.css
+│   ├── dropzone-min.js
+│   └── dropzone.css
 ├── hls\
 │   ├── hls.min.js
 │   └── hls.min.js.map
