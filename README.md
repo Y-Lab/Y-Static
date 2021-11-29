@@ -17,7 +17,7 @@ Y-English Website Static Files
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.10.7`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|Dropzone|:page_facing_up: [`dropzone-min.js`](https://unpkg.com/dropzone/dist/dropzone-min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`6.0.0-beta.1`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
+|Dropzone|:page_facing_up: [`dropzone-min.js`](https://unpkg.com/dropzone/dist/dropzone-min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`6.0.0-beta.2`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
 ||:page_facing_up: [`dropzone.css`](https://unpkg.com/dropzone/dist/dropzone.css)||||
 ||:page_facing_up: [`basic.css`](https://unpkg.com/dropzone/dist/basic.css)||||
 |HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.1.1`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
