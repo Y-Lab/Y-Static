@@ -26,7 +26,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.6.0`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
 |jsencrypt|:page_facing_up: [`jsencrypt.min.js`](https://unpkg.com/jsencrypt/bin/jsencrypt.min.js)|:package: [travist/jsencrypt](https://github.com/travist/jsencrypt)|`3.2.1`|![Latest Release](https://img.shields.io/npm/v/jsencrypt.svg)|
-|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.15.1`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
+|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.15.2`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
@@ -41,7 +41,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`lato-bold-ext.woff2`](https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2)||||
 ||:page_facing_up: [`lato-bold.woff2`](https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2)||||
 |Lodash|:page_facing_up: [`lodash.min.js`](https://unpkg.com/lodash/lodash.min.js)|:package: [lodash/lodash](https://github.com/lodash/lodash)|`4.17.21`|![Latest Release](https://img.shields.io/npm/v/lodash.svg)|
-|Marked|:page_facing_up: [`marked.min.js`](https://unpkg.com/marked/marked.min.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`4.0.9`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
+|Marked|:page_facing_up: [`marked.min.js`](https://unpkg.com/marked/marked.min.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`4.0.10`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.4`|[![GitHub Tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
 |SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.1.1`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
@@ -56,7 +56,7 @@ Y-English Website Static Files
 |Wang Editor|:page_facing_up: [`wangEditor.min.js`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.js)|:package: [wangfupeng1988/wangEditor](https://github.com/wangfupeng1988/wangEditor)|`3.1.1` :lock:|![Latest Release](https://img.shields.io/npm/v/wangeditor.svg)|
 ||:page_facing_up: [`wangEditor.min.css`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.css)||||
 ||:page_facing_up: [`fonts/w-e-icon.woff`](https://unpkg.com/wangeditor@3.1.1/release/fonts/w-e-icon.woff)||||
-|SheetJS|:page_facing_up: [`xlsx.full.min.js`](https://unpkg.com/xlsx/dist/xlsx.full.min.js)|:package: [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|`0.17.4`|![Latest Release](https://img.shields.io/npm/v/xlsx.svg)|
+|SheetJS|:page_facing_up: [`xlsx.full.min.js`](https://unpkg.com/xlsx/dist/xlsx.full.min.js)|:package: [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|`0.17.5`|![Latest Release](https://img.shields.io/npm/v/xlsx.svg)|
 ||:page_facing_up: [`xlsx.mini.min.js`](https://unpkg.com/xlsx/dist/xlsx.mini.min.js)||||
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.10`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
