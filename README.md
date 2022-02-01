@@ -11,7 +11,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`macarons.js`](https://unpkg.com/echarts/theme/macarons.js)||||
 ||:page_facing_up: `macarons.min.js`||||
 ||:page_facing_up: [`world.js`](https://unpkg.com/echarts/map/js/world.js)||||
-|Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.8`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
+|Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.9`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
 |Count|:page_facing_up: [`countUp.min.js`](https://unpkg.com/countup.js@1.9.3/dist/countUp.min.js)|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|`1.9.3` :lock:|![Latest Release](https://img.shields.io/npm/v/countup.js.svg)|
 ||:page_facing_up: [`jquery.countdown.min.js`](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|`2.2.0`|![Latest Release](https://img.shields.io/npm/v/jquery-countdown.svg)|
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.10.7`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
@@ -44,7 +44,7 @@ Y-English Website Static Files
 |Marked|:page_facing_up: [`marked.min.js`](https://unpkg.com/marked/marked.min.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`4.0.12`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.4`|[![GitHub Tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
-|SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.1.1`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
+|SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.1.2`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
 |Table|:page_facing_up: [`jquery.tablesort.min.js`](https://unpkg.com/jquery-tablesort/jquery.tablesort.min.js)|:package: [kylefox/jquery-tablesort](https://github.com/kylefox/jquery-tablesort)|`0.0.11`|![Latest Release](https://img.shields.io/npm/v/jquery-tablesort.svg)|
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.3.1`|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
@@ -56,7 +56,7 @@ Y-English Website Static Files
 |Wang Editor|:page_facing_up: [`wangEditor.min.js`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.js)|:package: [wangfupeng1988/wangEditor](https://github.com/wangfupeng1988/wangEditor)|`3.1.1` :lock:|![Latest Release](https://img.shields.io/npm/v/wangeditor.svg)|
 ||:page_facing_up: [`wangEditor.min.css`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.css)||||
 ||:page_facing_up: [`fonts/w-e-icon.woff`](https://unpkg.com/wangeditor@3.1.1/release/fonts/w-e-icon.woff)||||
-|SheetJS|:page_facing_up: [`xlsx.full.min.js`](https://unpkg.com/xlsx/dist/xlsx.full.min.js)|:package: [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|`0.17.5`|![Latest Release](https://img.shields.io/npm/v/xlsx.svg)|
+|SheetJS|:page_facing_up: [`xlsx.full.min.js`](https://unpkg.com/xlsx/dist/xlsx.full.min.js)|:package: [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|`0.18.0`|![Latest Release](https://img.shields.io/npm/v/xlsx.svg)|
 ||:page_facing_up: [`xlsx.mini.min.js`](https://unpkg.com/xlsx/dist/xlsx.mini.min.js)||||
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.10`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
