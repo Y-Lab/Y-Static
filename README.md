@@ -51,14 +51,14 @@ Y-English Website Static Files
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.3.1` :lock:|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
-|Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`13.1.1`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
+|Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`14.0.2`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
 |Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.8`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
 |Wang Editor|:page_facing_up: [`wangEditor.min.js`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.js)|:package: [wangfupeng1988/wangEditor](https://github.com/wangfupeng1988/wangEditor)|`3.1.1` :lock:|![Latest Release](https://img.shields.io/npm/v/wangeditor.svg)|
 ||:page_facing_up: [`wangEditor.min.css`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.css)||||
 ||:page_facing_up: [`fonts/w-e-icon.woff`](https://unpkg.com/wangeditor@3.1.1/release/fonts/w-e-icon.woff)||||
-|SheetJS|:page_facing_up: [`xlsx.full.min.js`](https://unpkg.com/xlsx/dist/xlsx.full.min.js)|:package: [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|`0.18.4`|![Latest Release](https://img.shields.io/npm/v/xlsx.svg)|
+|SheetJS|:page_facing_up: [`xlsx.full.min.js`](https://unpkg.com/xlsx/dist/xlsx.full.min.js)|:package: [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|`0.18.5`|![Latest Release](https://img.shields.io/npm/v/xlsx.svg)|
 ||:page_facing_up: [`xlsx.mini.min.js`](https://unpkg.com/xlsx/dist/xlsx.mini.min.js)||||
 |XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.11`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
