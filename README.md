@@ -11,10 +11,10 @@ Y-English Website Static Files
 ||:page_facing_up: [`macarons.js`](https://unpkg.com/echarts/theme/macarons.js)||||
 ||:page_facing_up: `macarons.min.js`||||
 ||:page_facing_up: [`world.js`](https://unpkg.com/echarts/map/js/world.js)||||
-|Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.10`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
+|Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.11`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
 |Count|:page_facing_up: [`countUp.min.js`](https://unpkg.com/countup.js@1.9.3/dist/countUp.min.js)|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|`1.9.3` :lock:|![Latest Release](https://img.shields.io/npm/v/countup.js.svg)|
 ||:page_facing_up: [`jquery.countdown.min.js`](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|`2.2.0`|![Latest Release](https://img.shields.io/npm/v/jquery-countdown.svg)|
-|Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.11.1`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
+|Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.11.2`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
 |Dropzone|:page_facing_up: [`dropzone-min.js`](https://unpkg.com/dropzone/dist/dropzone-min.js)|:package: [enyo/dropzone](https://github.com/enyo/dropzone)|`6.0.0-beta.2`|![Latest Release](https://img.shields.io/npm/v/dropzone.svg)|
