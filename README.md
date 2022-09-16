@@ -23,7 +23,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`basic.css`](https://unpkg.com/dropzone/dist/basic.css)||||
 |Filesize|:page_facing_up: [`filesize.min.js`](https://unpkg.com/filesize/lib/filesize.min.js)|:package: [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js)|`9.0.11`|![Latest Release](https://img.shields.io/npm/v/filesize.svg)|
 ||:page_facing_up: [`filesize.min.js.map`](https://unpkg.com/filesize/lib/filesize.min.js.map)||||
-|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.2.2`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
+|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.2.3`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 ||:page_facing_up: [`hls.min.js.map`](https://unpkg.com/hls.js/dist/hls.min.js.map)||||
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
