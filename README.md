@@ -53,7 +53,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
 |Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`14.0.2`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
-|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.8.8`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
+|Fomantic UI|:page_facing_up: [`semantic.min.css`](https://unpkg.com/fomantic-ui/dist/semantic.min.css)|:package: [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|`2.9.0`|![Latest Release](https://img.shields.io/npm/v/fomantic-ui.svg)|
 ||:page_facing_up: [`semantic.min.js`](https://unpkg.com/fomantic-ui/dist/semantic.min.js)||||
 ||:file_folder: [`themes`](https://unpkg.com/fomantic-ui/dist/themes/)||||
 |Wang Editor|:page_facing_up: [`wangEditor.min.js`](https://unpkg.com/wangeditor@3.1.1/release/wangEditor.min.js)|:package: [wangfupeng1988/wangEditor](https://github.com/wangfupeng1988/wangEditor)|`3.1.1` :lock:|![Latest Release](https://img.shields.io/npm/v/wangeditor.svg)|
@@ -65,165 +65,171 @@ Y-English Website Static Files
 
 ## File Structure
 ```
-assets\
-├── chart\
-│   ├── echarts.min.js [M]
-│   ├── macarons.js
-│   ├── macarons.min.js [M]
-│   └── world.js [M]
-├── chart5\
-│   └── echarts.min.js [M]
-├── clipboard\
-│   └── clipboard.min.js
-├── count\
-│   ├── countUp.min.js
-│   └── jquery.countdown.min.js
-├── day\
-│   ├── dayjs.min.js
-│   ├── relativeTime.js
-│   └── zh-cn.js
-├── dropzone\
-│   ├── basic.css
-│   ├── dropzone-min.js
-│   └── dropzone.css
-├── filesize\
-│   ├── filesize.min.js
-│   └── filesize.min.js.map
-├── hls\
-│   ├── hls.min.js
-│   └── hls.min.js.map
-├── id\
-│   ├── GB2260.min.js
-│   └── IDValidator.min.js
-├── jquery\
-│   └── jquery.min.js
-├── jsencrypt\
-│   └── jsencrypt.min.js
-├── katex\
-│   ├── fonts\
-│   │   ├── KaTeX_AMS-Regular.ttf
-│   │   ├── KaTeX_AMS-Regular.woff
-│   │   ├── KaTeX_AMS-Regular.woff2
-│   │   ├── KaTeX_Caligraphic-Bold.ttf
-│   │   ├── KaTeX_Caligraphic-Bold.woff
-│   │   ├── KaTeX_Caligraphic-Bold.woff2
-│   │   ├── KaTeX_Caligraphic-Regular.ttf
-│   │   ├── KaTeX_Caligraphic-Regular.woff
-│   │   ├── KaTeX_Caligraphic-Regular.woff2
-│   │   ├── KaTeX_Fraktur-Bold.ttf
-│   │   ├── KaTeX_Fraktur-Bold.woff
-│   │   ├── KaTeX_Fraktur-Bold.woff2
-│   │   ├── KaTeX_Fraktur-Regular.ttf
-│   │   ├── KaTeX_Fraktur-Regular.woff
-│   │   ├── KaTeX_Fraktur-Regular.woff2
-│   │   ├── KaTeX_Main-Bold.ttf
-│   │   ├── KaTeX_Main-Bold.woff
-│   │   ├── KaTeX_Main-Bold.woff2
-│   │   ├── KaTeX_Main-BoldItalic.ttf
-│   │   ├── KaTeX_Main-BoldItalic.woff
-│   │   ├── KaTeX_Main-BoldItalic.woff2
-│   │   ├── KaTeX_Main-Italic.ttf
-│   │   ├── KaTeX_Main-Italic.woff
-│   │   ├── KaTeX_Main-Italic.woff2
-│   │   ├── KaTeX_Main-Regular.ttf
-│   │   ├── KaTeX_Main-Regular.woff
-│   │   ├── KaTeX_Main-Regular.woff2
-│   │   ├── KaTeX_Math-BoldItalic.ttf
-│   │   ├── KaTeX_Math-BoldItalic.woff
-│   │   ├── KaTeX_Math-BoldItalic.woff2
-│   │   ├── KaTeX_Math-Italic.ttf
-│   │   ├── KaTeX_Math-Italic.woff
-│   │   ├── KaTeX_Math-Italic.woff2
-│   │   ├── KaTeX_SansSerif-Bold.ttf
-│   │   ├── KaTeX_SansSerif-Bold.woff
-│   │   ├── KaTeX_SansSerif-Bold.woff2
-│   │   ├── KaTeX_SansSerif-Italic.ttf
-│   │   ├── KaTeX_SansSerif-Italic.woff
-│   │   ├── KaTeX_SansSerif-Italic.woff2
-│   │   ├── KaTeX_SansSerif-Regular.ttf
-│   │   ├── KaTeX_SansSerif-Regular.woff
-│   │   ├── KaTeX_SansSerif-Regular.woff2
-│   │   ├── KaTeX_Script-Regular.ttf
-│   │   ├── KaTeX_Script-Regular.woff
-│   │   ├── KaTeX_Script-Regular.woff2
-│   │   ├── KaTeX_Size1-Regular.ttf
-│   │   ├── KaTeX_Size1-Regular.woff
-│   │   ├── KaTeX_Size1-Regular.woff2
-│   │   ├── KaTeX_Size2-Regular.ttf
-│   │   ├── KaTeX_Size2-Regular.woff
-│   │   ├── KaTeX_Size2-Regular.woff2
-│   │   ├── KaTeX_Size3-Regular.ttf
-│   │   ├── KaTeX_Size3-Regular.woff
-│   │   ├── KaTeX_Size3-Regular.woff2
-│   │   ├── KaTeX_Size4-Regular.ttf
-│   │   ├── KaTeX_Size4-Regular.woff
-│   │   ├── KaTeX_Size4-Regular.woff2
-│   │   ├── KaTeX_Typewriter-Regular.ttf
-│   │   └── KaTeX_Typewriter-Regular.woff
-│   ├── auto-render.min.js
-│   ├── katex.min.css
-│   └── katex.min.js
-├── lato\
-│   ├── lato.css [M]
-│   ├── lato.min.css [M]
-│   ├── lato-italic-ext.woff2
-│   ├── lato-italic.woff2
-│   ├── lato-bold-italic-ext.woff2
-│   ├── lato-bold-italic.woff2
-│   ├── lato-regular-ext.woff2
-│   ├── lato-regular.woff2
-│   ├── lato-bold-ext.woff2
-│   └── lato-bold.woff2
-├── lodash\
-│   └── lodash.min.js
-├── marked\
-│   └── marked.min.js
-├── player\
-│   ├── player.min.css
-│   └── player.min.js
-├── svg\
-│   └── svg.min.js
-├── table\
-│   └── jquery.tablesort.min.js
-├── trix\
-│   ├── trix.css
-│   ├── trix.min.css [M]
-│   └── trix.js [M]
-├── twemoji\
-│   └── svg\
-│       └── ...
-├── ui\
-│   ├── themes\
-│   │   └── default\
-│   │       └── assets\
-│   │           ├── fonts\
-│   │           │   ├── brand-icons.eot
-│   │           │   ├── brand-icons.svg
-│   │           │   ├── brand-icons.ttf
-│   │           │   ├── brand-icons.woff
-│   │           │   ├── brand-icons.woff2
-│   │           │   ├── icons.eot
-│   │           │   ├── icons.svg
-│   │           │   ├── icons.ttf
-│   │           │   ├── icons.woff
-│   │           │   ├── icons.woff2
-│   │           │   ├── outline-icons.eot
-│   │           │   ├── outline-icons.svg
-│   │           │   ├── outline-icons.ttf
-│   │           │   ├── outline-icons.woff
-│   │           │   └── outline-icons.woff2
-│   │           └── images\
-│   │               └── flags.png
-│   ├── semantic.min.css [M]
-│   └── semantic.min.js [M]
-├── wang\
-│   ├── fonts\
-│   │   └── w-e-icon.woff
-│   ├── wangEditor.min.css
-│   └── wangEditor.min.js
-├── xlsx\
-│   ├── xlsx.full.min.js
-│   └── xlsx.mini.min.js
-└── xss\
+assets/
+├── chart/
+│   ├── echarts.min.js [M]
+│   ├── macarons.js
+│   ├── macarons.min.js [M]
+│   └── world.js [M]
+├── chart5/
+│   └── echarts.min.js [M]
+├── clipboard/
+│   └── clipboard.min.js
+├── count/
+│   ├── countUp.min.js
+│   └── jquery.countdown.min.js
+├── day/
+│   ├── dayjs.min.js
+│   ├── relativeTime.js
+│   └── zh-cn.js
+├── dropzone/
+│   ├── basic.css
+│   ├── dropzone-min.js
+│   └── dropzone.css
+├── filesize/
+│   ├── filesize.min.js
+│   └── filesize.min.js.map
+├── hls/
+│   ├── hls.min.js
+│   └── hls.min.js.map
+├── id/
+│   ├── GB2260.min.js
+│   └── IDValidator.min.js
+├── jquery/
+│   └── jquery.min.js
+├── jsencrypt/
+│   └── jsencrypt.min.js
+├── katex/
+│   ├── auto-render.min.js
+│   ├── katex.min.css
+│   ├── katex.min.js
+│   └── fonts/
+│       ├── KaTeX_AMS-Regular.ttf
+│       ├── KaTeX_AMS-Regular.woff
+│       ├── KaTeX_AMS-Regular.woff2
+│       ├── KaTeX_Caligraphic-Bold.ttf
+│       ├── KaTeX_Caligraphic-Bold.woff
+│       ├── KaTeX_Caligraphic-Bold.woff2
+│       ├── KaTeX_Caligraphic-Regular.ttf
+│       ├── KaTeX_Caligraphic-Regular.woff
+│       ├── KaTeX_Caligraphic-Regular.woff2
+│       ├── KaTeX_Fraktur-Bold.ttf
+│       ├── KaTeX_Fraktur-Bold.woff
+│       ├── KaTeX_Fraktur-Bold.woff2
+│       ├── KaTeX_Fraktur-Regular.ttf
+│       ├── KaTeX_Fraktur-Regular.woff
+│       ├── KaTeX_Fraktur-Regular.woff2
+│       ├── KaTeX_Main-Bold.ttf
+│       ├── KaTeX_Main-Bold.woff
+│       ├── KaTeX_Main-Bold.woff2
+│       ├── KaTeX_Main-BoldItalic.ttf
+│       ├── KaTeX_Main-BoldItalic.woff
+│       ├── KaTeX_Main-BoldItalic.woff2
+│       ├── KaTeX_Main-Italic.ttf
+│       ├── KaTeX_Main-Italic.woff
+│       ├── KaTeX_Main-Italic.woff2
+│       ├── KaTeX_Main-Regular.ttf
+│       ├── KaTeX_Main-Regular.woff
+│       ├── KaTeX_Main-Regular.woff2
+│       ├── KaTeX_Math-BoldItalic.ttf
+│       ├── KaTeX_Math-BoldItalic.woff
+│       ├── KaTeX_Math-BoldItalic.woff2
+│       ├── KaTeX_Math-Italic.ttf
+│       ├── KaTeX_Math-Italic.woff
+│       ├── KaTeX_Math-Italic.woff2
+│       ├── KaTeX_SansSerif-Bold.ttf
+│       ├── KaTeX_SansSerif-Bold.woff
+│       ├── KaTeX_SansSerif-Bold.woff2
+│       ├── KaTeX_SansSerif-Italic.ttf
+│       ├── KaTeX_SansSerif-Italic.woff
+│       ├── KaTeX_SansSerif-Italic.woff2
+│       ├── KaTeX_SansSerif-Regular.ttf
+│       ├── KaTeX_SansSerif-Regular.woff
+│       ├── KaTeX_SansSerif-Regular.woff2
+│       ├── KaTeX_Script-Regular.ttf
+│       ├── KaTeX_Script-Regular.woff
+│       ├── KaTeX_Script-Regular.woff2
+│       ├── KaTeX_Size1-Regular.ttf
+│       ├── KaTeX_Size1-Regular.woff
+│       ├── KaTeX_Size1-Regular.woff2
+│       ├── KaTeX_Size2-Regular.ttf
+│       ├── KaTeX_Size2-Regular.woff
+│       ├── KaTeX_Size2-Regular.woff2
+│       ├── KaTeX_Size3-Regular.ttf
+│       ├── KaTeX_Size3-Regular.woff
+│       ├── KaTeX_Size3-Regular.woff2
+│       ├── KaTeX_Size4-Regular.ttf
+│       ├── KaTeX_Size4-Regular.woff
+│       ├── KaTeX_Size4-Regular.woff2
+│       ├── KaTeX_Typewriter-Regular.ttf
+│       ├── KaTeX_Typewriter-Regular.woff
+│       └── KaTeX_Typewriter-Regular.woff2
+├── lato/
+│   ├── lato-bold-ext.woff2
+│   ├── lato-bold-italic-ext.woff2
+│   ├── lato-bold-italic.woff2
+│   ├── lato-bold.woff2
+│   ├── lato-italic-ext.woff2
+│   ├── lato-italic.woff2
+│   ├── lato-regular-ext.woff2
+│   ├── lato-regular.woff2
+│   ├── lato.css [M]
+│   └── lato.min.css [M]
+├── lodash/
+│   └── lodash.min.js
+├── marked/
+│   └── marked.min.js
+├── player/
+│   ├── player.min.css
+│   └── player.min.js
+├── svg/
+│   └── svg.min.js
+├── table
+│   └── jquery.tablesort.min.js
+├── trix/
+│   ├── trix.css
+│   ├── trix.js [M]
+│   └── trix.min.css [M]
+├── twemoji/
+│   └── svg/
+│       └── ...
+├── ui/
+│   ├── semantic.min.css [M]
+│   ├── semantic.min.js [M]
+│   └── themes/
+│       └── default/
+│           └── assets/
+│               └── fonts/
+│                   ├── Lato-Bold.woff
+│                   ├── Lato-Bold.woff2
+│                   ├── Lato-BoldItalic.woff
+│                   ├── Lato-BoldItalic.woff2
+│                   ├── Lato-Italic.woff
+│                   ├── Lato-Italic.woff2
+│                   ├── Lato-Regular.woff
+│                   ├── Lato-Regular.woff2
+│                   ├── LatoLatin-Bold.woff
+│                   ├── LatoLatin-Bold.woff2
+│                   ├── LatoLatin-BoldItalic.woff
+│                   ├── LatoLatin-BoldItalic.woff2
+│                   ├── LatoLatin-Italic.woff
+│                   ├── LatoLatin-Italic.woff2
+│                   ├── LatoLatin-Regular.woff
+│                   ├── LatoLatin-Regular.woff2
+│                   ├── brand-icons.woff
+│                   ├── brand-icons.woff2
+│                   ├── icons.woff
+│                   ├── icons.woff2
+│                   ├── outline-icons.woff
+│                   └── outline-icons.woff2
+├── wang/
+│   ├── wangEditor.min.css
+│   ├── wangEditor.min.js
+│   └── fonts/
+│       └── w-e-icon.woff
+├── xlsx/
+│   ├── xlsx.full.min.js
+│   └── xlsx.mini.min.js
+└── xss/
     └── xss.min.js
 ```
