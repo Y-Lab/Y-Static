@@ -24,7 +24,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`hls.min.js.map`](https://unpkg.com/hls.js/dist/hls.min.js.map)||||
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
-|jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.6.4`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
+|jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.7.0`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
 |JSEncrypt|:page_facing_up: [`jsencrypt.min.js`](https://unpkg.com/jsencrypt/bin/jsencrypt.min.js)|:package: [travist/jsencrypt](https://github.com/travist/jsencrypt)|`3.3.2`|![Latest Release](https://img.shields.io/npm/v/jsencrypt.svg)|
 |KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.16.7`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
