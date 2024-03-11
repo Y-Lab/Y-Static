@@ -47,7 +47,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`fonts/w-e-icon.woff`](https://unpkg.com/wangeditor@3.1.1/release/fonts/w-e-icon.woff)||||
 |SheetJS|:page_facing_up: [`xlsx.full.min.js`](https://unpkg.com/xlsx/dist/xlsx.full.min.js)|:package: [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|`0.18.5`|![Latest Release](https://img.shields.io/npm/v/xlsx.svg)|
 ||:page_facing_up: [`xlsx.mini.min.js`](https://unpkg.com/xlsx/dist/xlsx.mini.min.js)||||
-|XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.14`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
+|XSS|:page_facing_up: [`xss.min.js`](https://unpkg.com/xss/dist/xss.min.js)|:package: [leizongmin/js-xss](https://github.com/leizongmin/js-xss)|`1.0.15`|![Latest Release](https://img.shields.io/npm/v/xss.svg)|
 
 ## File Structure
 ```
