@@ -15,10 +15,10 @@ Y-English Website Static Files
 |Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.11`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
 |Count|:page_facing_up: [`countUp.min.js`](https://unpkg.com/countup.js@1.9.3/dist/countUp.min.js)|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|`1.9.3` :lock:|![Latest Release](https://img.shields.io/npm/v/countup.js.svg)|
 ||:page_facing_up: [`jquery.countdown.min.js`](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|`2.2.0`|![Latest Release](https://img.shields.io/npm/v/jquery-countdown.svg)|
-|Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.11.10`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
+|Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.11.11`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|Filesize|:page_facing_up: [`filesize.min.js`](https://unpkg.com/filesize/dist/filesize.min.js)|:package: [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js)|`10.1.1`|![Latest Release](https://img.shields.io/npm/v/filesize.svg)|
+|Filesize|:page_facing_up: [`filesize.min.js`](https://unpkg.com/filesize/dist/filesize.min.js)|:package: [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js)|`10.1.2`|![Latest Release](https://img.shields.io/npm/v/filesize.svg)|
 ||:page_facing_up: [`filesize.min.js.map`](https://unpkg.com/filesize/dist/filesize.min.js.map)||||
 |HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.5.8`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 ||:page_facing_up: [`hls.min.js.map`](https://unpkg.com/hls.js/dist/hls.min.js.map)||||
@@ -35,7 +35,7 @@ Y-English Website Static Files
 ||:page_facing_up: `player.min.css`||||
 |SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.2.0`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
 |Table|:page_facing_up: [`jquery.tablesort.min.js`](https://unpkg.com/jquery-tablesort/jquery.tablesort.min.js)|:package: [kylefox/jquery-tablesort](https://github.com/kylefox/jquery-tablesort)|`0.0.11`|![Latest Release](https://img.shields.io/npm/v/jquery-tablesort.svg)|
-|Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.3.1` :lock:|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
+|Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.3.2` :lock:|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
 ||:page_facing_up: [`trix.css`](https://unpkg.com/trix/dist/trix.css)||||
 ||:page_facing_up: `trix.min.css`||||
 |Twemoji|:file_folder: [`svg`](https://github.com/twitter/twemoji/tree/master/assets/svg)|:package: [twitter/twemoji](https://github.com/twitter/twemoji)|`14.0.2`|![Latest Release](https://img.shields.io/npm/v/twemoji.svg)|
