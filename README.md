@@ -11,16 +11,16 @@ Y-English Website Static Files
 ||:page_facing_up: [`macarons.js`](https://unpkg.com/echarts/theme/macarons.js)||||
 ||:page_facing_up: `macarons.min.js`||||
 ||:page_facing_up: [`world.js`](https://unpkg.com/echarts/map/js/world.js)||||
-|Echarts 5|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`5.6.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
+|Echarts 6|:page_facing_up: [`echarts.min.js`](https://unpkg.com/echarts/dist/echarts.min.js)|:package: [apache/incubator-echarts](https://github.com/apache/incubator-echarts)|`6.0.0`|![Latest Release](https://img.shields.io/npm/v/echarts.svg)|
 |Clipboard|:page_facing_up: [`clipboard.min.js`](https://unpkg.com/clipboard/dist/clipboard.min.js)|:package: [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)|`2.0.11`|![Latest Release](https://img.shields.io/npm/v/clipboard.svg)|
 |Count|:page_facing_up: [`countUp.min.js`](https://unpkg.com/countup.js@1.9.3/dist/countUp.min.js)|:package: [inorganik/countUp.js](https://github.com/inorganik/countUp.js)|`1.9.3` :lock:|![Latest Release](https://img.shields.io/npm/v/countup.js.svg)|
 ||:page_facing_up: [`jquery.countdown.min.js`](https://unpkg.com/jquery-countdown/dist/jquery.countdown.min.js)|:package: [hilios/jQuery.countdown](https://github.com/hilios/jQuery.countdown)|`2.2.0`|![Latest Release](https://img.shields.io/npm/v/jquery-countdown.svg)|
 |Day|:page_facing_up: [`dayjs.min.js`](https://unpkg.com/dayjs/dayjs.min.js)|:package: [iamkun/dayjs](https://github.com/iamkun/dayjs)|`1.11.13`|![Latest Release](https://img.shields.io/npm/v/dayjs.svg)|
 ||:page_facing_up: [`zh-cn.js`](https://unpkg.com/dayjs/locale/zh-cn.js)||||
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
-|Filesize|:page_facing_up: [`filesize.min.js`](https://unpkg.com/filesize/dist/filesize.min.js)|:package: [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js)|`10.1.6`|![Latest Release](https://img.shields.io/npm/v/filesize.svg)|
+|Filesize|:page_facing_up: [`filesize.min.js`](https://unpkg.com/filesize/dist/filesize.min.js)|:package: [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js)|`11.0.2`|![Latest Release](https://img.shields.io/npm/v/filesize.svg)|
 ||:page_facing_up: [`filesize.min.js.map`](https://unpkg.com/filesize/dist/filesize.min.js.map)||||
-|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.6.6`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
+|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.6.7`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 ||:page_facing_up: [`hls.min.js.map`](https://unpkg.com/hls.js/dist/hls.min.js.map)||||
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
@@ -30,7 +30,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
-|Marked|:page_facing_up: [`marked.umd.js`](https://unpkg.com/marked/lib/marked.umd.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`16.0.0`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
+|Marked|:page_facing_up: [`marked.umd.js`](https://unpkg.com/marked/lib/marked.umd.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`16.1.1`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
 ||:page_facing_up: [`marked.umd.js.map`](https://unpkg.com/marked/lib/marked.umd.js.map)||||
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.4`|[![GitHub Tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
@@ -59,7 +59,7 @@ assets/
 │   ├── macarons.js
 │   ├── macarons.min.js [M]
 │   └── world.js [M]
-├── chart5/
+├── chart6/
 │   └── echarts.min.js [M]
 ├── clipboard/
 │   └── clipboard.min.js
