@@ -30,7 +30,7 @@ Y-English Website Static Files
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
-|Marked|:page_facing_up: [`marked.umd.js`](https://unpkg.com/marked/lib/marked.umd.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`16.1.1`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
+|Marked|:page_facing_up: [`marked.umd.js`](https://unpkg.com/marked/lib/marked.umd.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`16.1.2`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
 ||:page_facing_up: [`marked.umd.js.map`](https://unpkg.com/marked/lib/marked.umd.js.map)||||
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.4`|[![GitHub Tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
