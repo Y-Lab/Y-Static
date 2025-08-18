@@ -20,17 +20,17 @@ Y-English Website Static Files
 ||:page_facing_up: [`relativeTime.js`](https://unpkg.com/dayjs/plugin/relativeTime.js)||||
 |Filesize|:page_facing_up: [`filesize.min.js`](https://unpkg.com/filesize/dist/filesize.min.js)|:package: [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js)|`11.0.2`|![Latest Release](https://img.shields.io/npm/v/filesize.svg)|
 ||:page_facing_up: [`filesize.min.js.map`](https://unpkg.com/filesize/dist/filesize.min.js.map)||||
-|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.6.9`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
+|HLS|:page_facing_up: [`hls.min.js`](https://unpkg.com/hls.js/dist/hls.min.js)|:package: [video-dev/hls.js](https://github.com/video-dev/hls.js)|`1.6.10`|![Latest Release](https://img.shields.io/npm/v/hls.js.svg)|
 ||:page_facing_up: [`hls.min.js.map`](https://unpkg.com/hls.js/dist/hls.min.js.map)||||
 |ID Validator|:page_facing_up: [`IDValidator.min.js`](https://unpkg.com/id-validator/IDValidator.min.js)|:package: [mc-zone/IDValidator](https://github.com/mc-zone/IDValidator)|`1.3.0`|![Latest Release](https://img.shields.io/npm/v/id-validator.svg)|
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`3.7.1`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
-|JSEncrypt|:page_facing_up: [`jsencrypt.min.js`](https://unpkg.com/jsencrypt/bin/jsencrypt.min.js)|:package: [travist/jsencrypt](https://github.com/travist/jsencrypt)|`3.3.2`|![Latest Release](https://img.shields.io/npm/v/jsencrypt.svg)|
+|JSEncrypt|:page_facing_up: [`jsencrypt.min.js`](https://unpkg.com/jsencrypt/bin/jsencrypt.min.js)|:package: [travist/jsencrypt](https://github.com/travist/jsencrypt)|`3.5.4`|![Latest Release](https://img.shields.io/npm/v/jsencrypt.svg)|
 |KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.16.22`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
-|Marked|:page_facing_up: [`marked.umd.js`](https://unpkg.com/marked/lib/marked.umd.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`16.1.2`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
+|Marked|:page_facing_up: [`marked.umd.js`](https://unpkg.com/marked/lib/marked.umd.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`16.2.0`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
 ||:page_facing_up: [`marked.umd.js.map`](https://unpkg.com/marked/lib/marked.umd.js.map)||||
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.4`|[![GitHub Tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
