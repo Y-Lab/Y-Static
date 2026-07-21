@@ -26,15 +26,15 @@ Y-English Website Static Files
 ||:page_facing_up: [`GB2260.min.js`](https://unpkg.com/id-validator/GB2260.min.js)||||
 |jQuery|:page_facing_up: [`jquery.min.js`](https://unpkg.com/jquery/dist/jquery.min.js)|:package: [jquery/jquery](https://github.com/jquery/jquery)|`4.0.0`|![Latest Release](https://img.shields.io/npm/v/jquery.svg)|
 |JSEncrypt|:page_facing_up: [`jsencrypt.min.js`](https://unpkg.com/jsencrypt/bin/jsencrypt.min.js)|:package: [travist/jsencrypt](https://github.com/travist/jsencrypt)|`3.5.4`|![Latest Release](https://img.shields.io/npm/v/jsencrypt.svg)|
-|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.17.0`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
+|KaTeX|:page_facing_up: [`katex.min.js`](https://unpkg.com/katex/dist/katex.min.js)|:package: [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)|`0.18.1`|![Latest Release](https://img.shields.io/npm/v/katex.svg)|
 ||:page_facing_up: [`katex.min.css`](https://unpkg.com/katex/dist/katex.min.css)||||
 ||:page_facing_up: [`auto-render.min.js`](https://unpkg.com/katex/dist/contrib/auto-render.min.js)||||
 ||:file_folder: [`fonts`](https://unpkg.com/katex/dist/fonts/)||||
-|Marked|:page_facing_up: [`marked.umd.js`](https://unpkg.com/marked/lib/marked.umd.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`18.0.6`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
+|Marked|:page_facing_up: [`marked.umd.js`](https://unpkg.com/marked/lib/marked.umd.js)|:package: [markedjs/marked](https://github.com/markedjs/marked)|`18.0.7`|![Latest Release](https://img.shields.io/npm/v/marked.svg)|
 ||:page_facing_up: [`marked.umd.js.map`](https://unpkg.com/marked/lib/marked.umd.js.map)||||
 |Player|:page_facing_up: `player.min.js`|:package: [Y-Lab/Y-Player](https://github.com/Y-Lab/Y-Player)|`1.0.4`|[![GitHub Tag](https://img.shields.io/github/tag/Y-Lab/Y-Player.svg)](https://github.com/Y-Lab/Y-Player/releases)|
 ||:page_facing_up: `player.min.css`||||
-|SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.2.5`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
+|SVG|:page_facing_up: [`svg.min.js`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js)|:package: [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)|`3.2.7`|![Latest Release](https://img.shields.io/npm/v/@svgdotjs/svg.js.svg)|
 ||:page_facing_up: [`svg.min.js.map`](https://unpkg.com/@svgdotjs/svg.js/dist/svg.min.js.map)||||
 |Table|:page_facing_up: [`jquery.tablesort.min.js`](https://unpkg.com/jquery-tablesort/jquery.tablesort.min.js)|:package: [kylefox/jquery-tablesort](https://github.com/kylefox/jquery-tablesort)|`0.0.11`|![Latest Release](https://img.shields.io/npm/v/jquery-tablesort.svg)|
 |Trix|:page_facing_up: [`trix.js`](https://unpkg.com/trix/dist/trix.js)|:package: [basecamp/trix](https://github.com/basecamp/trix)|`1.3.5` :lock:|![Latest Release](https://img.shields.io/npm/v/trix.svg)|
